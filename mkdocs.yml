@@ -4,6 +4,15 @@ theme:
     name: 'material'
     palette:
 
+    # Dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: gray17
+      accent: blue
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode
+        
     # Light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
@@ -12,15 +21,6 @@ theme:
       toggle:
         icon: material/toggle-switch-off-outline
         name: Switch to dark mode
-
-    # Dark mode
-    - media: "(prefers-color-scheme: dark)"
-      scheme: slate
-      primary: black
-      accent: blue
-      toggle:
-        icon: material/toggle-switch
-        name: Switch to light mode
 
 # Extensions
 markdown_extensions:
