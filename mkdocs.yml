@@ -23,7 +23,7 @@ theme:
         name: Switch to light mode
         
     icon:
-    admonition:
+     admonition:
       info: material/cloud-alert
 
 # Extensions
