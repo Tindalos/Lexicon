@@ -17,5 +17,5 @@ Also, get highlights and strikethroughs as above (similar to Obsidian).
 
 More formatting options for your webpage [here](https://squidfunk.github.io/mkdocs-material/reference/formatting/#highlighting-changes). (but not compatible with Obsidian)
 
-!!! note
+!!! info
     This is a sample Info section
