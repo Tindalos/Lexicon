@@ -1,11 +1,7 @@
-# Obsidian Notes
+# The Lexicon Project
 
-Publish your public notes with MkDocs
+Exposing the organizing symbolism used by 'the gl█balists'
 
-## Hello World!
+## Hi Rhonda!
 
-The `index.md` in the `/docs` folder is the homepage you see here.
-
-The folders in `/docs` appear as the main sections on the navigation bar.
-
-The notes appear as pages within these sections. For example, [[Note 1]] in `Topic 1`
+People will be able to click on the categories and select whatever symbol for which to view a definition.
