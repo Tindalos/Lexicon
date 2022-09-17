@@ -52,7 +52,8 @@ markdown_extensions:
   - pymdownx.tilde
 
   - toc:
-      permalink: false
+      permalink: true
+      toc_depth: 0
 
 plugins:
   - search
