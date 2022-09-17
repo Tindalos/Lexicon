@@ -23,8 +23,13 @@ theme:
         name: Switch to light mode
         
     icon:
-     admonition:
+      admonition:
       info: material/cloud-alert
+
+    features:
+      - navigation.instant
+      - navigation.expand
+      - navigation.indexes
 
 # Extensions
 markdown_extensions:
