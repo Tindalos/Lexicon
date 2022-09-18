@@ -31,10 +31,15 @@ theme:
     features:
       - navigation.instant
       - navigation.expand
- #     - navigation.indexes
- #     Nixed due to section pages not working properly
+      - navigation.indexes
       - navigation.top
       - navigation.sections
+
+nav:
+  - Section:
+    - docs/section/index.md
+    - Page 1: docs/section/page-1.md
+    - Page 2: docs/section/page-2.md
 
 # Extensions
 markdown_extensions:
