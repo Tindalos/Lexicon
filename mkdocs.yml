@@ -72,8 +72,7 @@ plugins:
   - search
   - roamlinks 
   - mermaid2
-  - literate-nav:
-      nav_file: SUMMARY.md
+
   
 extra:
   generator: false
