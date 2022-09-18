@@ -3,7 +3,7 @@ site_name: The Lexicon Project
 nav:
   - Symbols:
     - Colors:
-      - docs/symbols/colors/index.md
+      - docs/symbols/colors/colors.md
 
 theme:
     name: 'material'
