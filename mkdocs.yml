@@ -1,9 +1,9 @@
 site_name: The Lexicon Project
 site_url: https://tindalos.github.io/Lexicon/
 
-repo_url: https://github.com/Tindalos/Lexicon
-repo_name: Lexicon
-edit_uri: docs/
+# repo_url: https://github.com/Tindalos/Lexicon
+# repo_name: Lexicon
+# edit_uri: docs/
 
        
 theme:
