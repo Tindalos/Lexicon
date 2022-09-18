@@ -29,11 +29,15 @@ theme:
       info: material/cloud-alert
 
     features:
-      - navigation.instant
-      - navigation.expand
+#      - navigation.instant
+#      ^ Loads the whole site at once, preventing constant reloads
+#      - navigation.expand
+#      ^ Auto-expands the sections area
       - navigation.indexes
-      - navigation.top
-      - navigation.sections
+#     ^ Displays index pages for section directories  
+#      - navigation.top
+#      ^ Creates a 'Back-to-top' button
+#      - navigation.sections
 
 nav:
   - Section:
