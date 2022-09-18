@@ -4,7 +4,7 @@ nav:
  - Summary: docs/index.md
  - Symbols:
    - Colors:
-     - docs/symbols/colors/Colors.md
+     - General: docs/symbols/colors/Colors.md
      - Bl█ck: docs/symbols/colors/Bl█ck.md
      - Blue: docs/symbols/colors/Blue.md
      - Gr██n: docs/symbols/colors/Gr██n.md
@@ -14,9 +14,9 @@ nav:
      - Wh█te: docs/symbols/colors/Wh█te.md
      - Yell█w: docs/symbols/colors/Y█llow.md
    - Counter-Divine Will: 
-     - docs/symbols/CounterDivine_Will/index.md
+     - General: docs/symbols/CounterDivine_Will/index.md
    - Elements:
-     - docs/symbols/elements/Elements.md
+     - General: docs/symbols/elements/Elements.md
      - Earth: docs/symbols/elements/Earth.md
      - Air: docs/symbols/elements/Air.md
      - F█re: docs/symbols/elements/F█re.md
@@ -53,7 +53,8 @@ theme:
     features:
       - navigation.instant
       - navigation.expand
-      - navigation.indexes
+ #     - navigation.indexes
+ #     Nixed due to section pages not working properly
       - navigation.top
       - navigation.sections
 
