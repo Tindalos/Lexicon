@@ -3,8 +3,24 @@ site_name: The Lexicon Project
 nav:
  # - Symbols:
  #   - Colors:
- #     - docs/symbols/colors/colors.md
-
+       - docs/symbols/colors/Colors.md
+       - Bl█ck: docs/symbols/colors/Bl█ck.md
+       - Blue: docs/symbols/colors/Blue.md
+       - Gr██n: docs/symbols/colors/Gr██n.md
+       - Or█nge: docs/symbols/colors/Or█nge.md
+       - P█rple: docs/symbols/colors/P█rple.md
+       - R█d: docs/symbols/colors/R█d.md
+       - Wh█te: docs/symbols/colors/Wh█te.md
+       - Yell█w: docs/symbols/colors/Y█llow.md
+     - Counter-Divine Will:
+     - Elements: docs/symbols/elements/Elements.md
+       - Earth: docs/symbols/elements/Earth.md
+       - Air: docs/symbols/elements/Air.md
+       - F█re: docs/symbols/elements/F█re.md
+       - Wat█r: docs/symbols/elements/Wat█r.md
+       - Spir█t: docs/symbols/elements/Spir█t.md
+       - Met█l: docs/symbols/elements/Met█l.md
+       
 theme:
     name: 'material'
     palette:
