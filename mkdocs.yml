@@ -2,7 +2,7 @@ site_name: The Lexicon Project
 
 nav:
   - Symbols:
-    - Colors: Colors/colors.md
+    - Colors: colors/colors.md
 
 theme:
     name: 'material'
@@ -64,7 +64,6 @@ plugins:
   - search
   - roamlinks 
   - mermaid2
-  - autolinks
   
 extra:
   generator: false
