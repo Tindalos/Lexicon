@@ -1,5 +1,9 @@
 site_name: The Lexicon Project
 
+nav:
+  - Symbols:
+    - Colors: colors/colors.md
+
 theme:
     name: 'material'
     palette:
