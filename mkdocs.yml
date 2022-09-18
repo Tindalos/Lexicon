@@ -2,7 +2,7 @@ site_name: The Lexicon Project
 
 nav:
   - Symbols:
-    - Colors: Colors/colors.md
+    - Colors: Symbols/Colors/colors.md
 
 theme:
     name: 'material'
