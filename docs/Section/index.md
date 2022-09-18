@@ -1,6 +1,6 @@
 ## Section header
 
-This is the section inded page.
+This is the section index page.
 
 'Index' should not be added as the title, obviously.
 
