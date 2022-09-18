@@ -60,7 +60,6 @@ plugins:
   - search
   - roamlinks 
   - mermaid2
-  - mkdocs-section-index
   
 extra:
   generator: false
