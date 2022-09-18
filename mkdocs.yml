@@ -1,8 +1,9 @@
 site_name: The Lexicon Project
 
-#nav:
-#  - Symbols:
-#    - Colors: docs/symbols/colors/index.md
+nav:
+  - Symbols:
+    - Colors:
+      - docs/symbols/colors/index.md
 
 theme:
     name: 'material'
