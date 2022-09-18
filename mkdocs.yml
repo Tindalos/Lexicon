@@ -60,6 +60,7 @@ plugins:
   - search
   - roamlinks 
   - mermaid2
+  - section-index
   
 extra:
   generator: false
