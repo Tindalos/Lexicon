@@ -4,7 +4,7 @@ nav:
  - Summary: docs/index.md
  - Symbols:
    - Colors:
-   - docs/symbols/colors/Colors.md
+    - docs/symbols/colors/Colors.md
      - Bl█ck: docs/symbols/colors/Bl█ck.md
      - Blue: docs/symbols/colors/Blue.md
      - Gr██n: docs/symbols/colors/Gr██n.md
