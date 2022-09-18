@@ -1,8 +1,10 @@
 site_name: The Lexicon Project
 
 nav:
- # - Symbols:
- #   - Colors:
+ - Summary:
+   - docs/index.md
+ - Symbols:
+   - Colors:
        - docs/symbols/colors/Colors.md
        - Bl█ck: docs/symbols/colors/Bl█ck.md
        - Blue: docs/symbols/colors/Blue.md
