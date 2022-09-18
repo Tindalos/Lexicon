@@ -39,7 +39,7 @@ theme:
 #      ^ Creates a 'Back-to-top' button
       - navigation.sections
 
- nav:
+nav:
   - Section: 
     - index.md
     - Page 1: docs/section/page-1.md
