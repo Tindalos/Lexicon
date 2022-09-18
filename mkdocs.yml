@@ -64,6 +64,7 @@ plugins:
   - search
   - roamlinks 
   - mermaid2
+  - autolinks
   
 extra:
   generator: false
