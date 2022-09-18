@@ -1,7 +1,7 @@
 site_name: The Lexicon Project
 
 nav:
- - Summary: docs/index.md
+# - Summary: docs/index.md
  - Symbols:
    - Colors:
      - General: docs/symbols/colors/Colors.md
