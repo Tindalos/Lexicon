@@ -72,7 +72,6 @@ plugins:
   - search
   - roamlinks 
   - mermaid2
-  - awesome-pages
   
 extra:
   generator: false
