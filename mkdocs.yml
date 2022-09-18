@@ -34,10 +34,10 @@ theme:
 #      - navigation.expand
 #      ^ Auto-expands the sections area
       - navigation.indexes
-#     ^ Displays index pages for section directories  
+#     ^ Displays index pages for section directories, allegedly  
 #      - navigation.top
 #      ^ Creates a 'Back-to-top' button
-#      - navigation.sections
+      - navigation.sections
 
 nav:
   - Section:
