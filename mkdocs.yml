@@ -53,8 +53,10 @@ nav:
         - Sample Answer: FrequentAnswers/sample.md
     - Symbols:
         - symbols/index.md
+        - Sample: symbols/sample.md
         - Counter-Divine Will:
             - symbols/cdw/index.md
+            - Sample: symbols/sample.md
 #    - Elements:
 #        - symbols/elements/index.md
 #        - Earth: symbols/elements/earth.md
