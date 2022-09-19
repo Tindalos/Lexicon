@@ -33,13 +33,13 @@ theme:
       info: material/cloud-alert
 
     features:
-#      - navigation.instant
+      - navigation.instant
 #      ^ Loads the whole site at once, preventing constant reloads
-#      - navigation.expand
+      - navigation.expand
 #      ^ Auto-expands the sections area
       - navigation.indexes
 #     ^ Displays index pages for section directories, allegedly  
-#      - navigation.top
+      - navigation.top
 #      ^ Creates a 'Back-to-top' button
       - navigation.sections
 
