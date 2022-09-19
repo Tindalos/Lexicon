@@ -46,9 +46,9 @@ theme:
 nav:
     - Home: index.md
     - Section: 
-#        - section/index.md
-        - Page 1: section/page-1.md
-        - Page 2: section/page-2.md
+        - Section/index.md
+        - Page 1: Section/page-1.md
+        - Page 2: Section/page-2.md
 
 # Extensions
 markdown_extensions:
