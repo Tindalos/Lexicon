@@ -52,11 +52,11 @@ nav:
         - FrequentAnswers/index.md
         - Sample Answer: FrequentAnswers/sample.md
     - Symbols:
-        - symbols/index.md
-        - Sample: symbols/sample.md
+        - Symbols/index.md
+        - Sample: Symbols/sample.md
         - Counter-Divine Will:
-            - symbols/cdw/index.md
-            - Sample: symbols/sample.md
+            - Symbols/cdw/index.md
+            - Sample: Symbols/sample.md
 #    - Elements:
 #        - symbols/elements/index.md
 #        - Earth: symbols/elements/earth.md
