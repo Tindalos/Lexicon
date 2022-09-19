@@ -48,8 +48,7 @@ nav:
 #        - Page 1: Section/page1.md
 #        - Page 2: Section/page2.md
     - Summary: index.md
-    - Frequent Answers:
-        - FrequentAnswers/index.md
+    - Frequent Answers: FrequentAnswers/index.md
 #    - Symbols:
 #        - symbols/index.md
 #        - Counter-Divine Will:
