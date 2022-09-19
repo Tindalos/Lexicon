@@ -42,11 +42,27 @@ theme:
 #      - navigation.sections
 
 nav:
-    - Home: index.md
-    - Section: 
-        - Section/index.md
-        - Page 1: Section/page1.md
-        - Page 2: Section/page2.md
+#    - Home: index.md
+#    - Section: 
+#        - Section/index.md
+#        - Page 1: Section/page1.md
+#        - Page 2: Section/page2.md
+    - Summary: index.md
+    - Frequent Answers:
+        - FrequentAnswers/index.md
+    - Symbols:
+        - symbols/index.md
+        - Counter-Divine Will:
+            - symbols/cdw/index.md
+    - Elements:
+        - /symbols/elements/index.md
+        - Earth: /symbols/elements/earth.md
+        - Air:  /symbols/elements/air.md
+        - F█re: /symbols/elements/f█re.md
+        - Wat█r: /symbols/elements/wat█r.md
+        - Spir█t: /symbols/elements/spir█t.md
+        - Met█l: /symbols/elements/met█l.md
+
 
 # Extensions
 markdown_extensions:
