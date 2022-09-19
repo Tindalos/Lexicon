@@ -51,10 +51,10 @@ nav:
     - Frequent Answers:
         - FrequentAnswers/index.md
         - Sample Answer: FrequentAnswers/sample.md
-#    - Symbols:
-#        - symbols/index.md
-#        - Counter-Divine Will:
-#            - symbols/cdw/index.md
+    - Symbols:
+        - symbols/index.md
+        - Counter-Divine Will:
+            - symbols/cdw/index.md
 #    - Elements:
 #        - symbols/elements/index.md
 #        - Earth: symbols/elements/earth.md
