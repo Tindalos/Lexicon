@@ -35,8 +35,6 @@ theme:
     features:
       - navigation.instant
 #      ^ Loads the whole site at once, preventing constant reloads
-#      - navigation.expand
-#      ^ Auto-expands the sections area
       - navigation.indexes
 #     ^ Displays index pages for section directories, allegedly  
       - navigation.top
