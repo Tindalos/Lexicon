@@ -48,10 +48,12 @@ nav:
 #        - Page 1: Section/page1.md
 #        - Page 2: Section/page2.md
     - Summary: index.md
-    - Frequent Answers: FrequentAnswers/index.md
-    - Symbols: symbols/index.md
-        - Counter-Divine Will:
-            - symbols/cdw/index.md
+    - Frequent Answers:
+        - FrequentAnswers/index.md
+#    - Symbols:
+#        - symbols/index.md
+#        - Counter-Divine Will:
+#            - symbols/cdw/index.md
 #    - Elements:
 #        - /symbols/elements/index.md
 #        - Earth: /symbols/elements/earth.md
