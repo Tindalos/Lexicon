@@ -1,5 +1,5 @@
 site_name: The Lexicon Project
-site_url: https://tindalos.github.io/Lexicon/
+site_url: https://github.com/tindalos/Lexicon/docs
 
 # repo_url: https://github.com/Tindalos/Lexicon
 # repo_name: Lexicon
@@ -43,11 +43,13 @@ theme:
 #      ^ Creates a 'Back-to-top' button
       - navigation.sections
 
-#nav:
-#  - Section: 
-#    - docs/section/index.md
-#    - Page 1: docs/section/page-1.md
-#    - Page 2: docs/section/page-2.md
+nav:
+    - Home:
+        - index.md
+    - Section: 
+        - section/index.md
+        - Page 1: section/page-1.md
+        - Page 2: section/page-2.md
 
 # Extensions
 markdown_extensions:
