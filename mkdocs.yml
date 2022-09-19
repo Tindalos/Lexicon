@@ -47,8 +47,8 @@ nav:
     - Home: index.md
     - Section: 
         - Section/index.md
-        - Page 1: Section/page-1.md
-        - Page 2: Section/page-2.md
+        - Page 1: Section/page1.md
+        - Page 2: Section/page2.md
 
 # Extensions
 markdown_extensions:
