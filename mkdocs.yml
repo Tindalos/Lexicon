@@ -44,8 +44,7 @@ theme:
       - navigation.sections
 
 nav:
-    - Home:
-        - index.md
+    - Home: index.md
     - Section: 
         - section/index.md
         - Page 1: section/page-1.md
