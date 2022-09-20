@@ -53,7 +53,7 @@ nav:
 #        - 'Sample Answer': FrequentAnswers/sample.md
     - Symbols:
         - Symbols/index.md
-        - Sample: Symbols/sample.md
+#        - Sample: Symbols/sample.md
         - 'Counter-Divine Will':
             - Symbols/cdw/index.md
 #            - Sample: Symbols/cdw/sample.md

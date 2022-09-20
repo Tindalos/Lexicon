@@ -1,2 +1,2 @@
-# Counter-Divine Will
+# Counter-Divine Will symbols
 
