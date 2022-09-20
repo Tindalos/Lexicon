@@ -54,19 +54,17 @@ nav:
     - Symbols:
         - Symbols/index.md
         - Sample: Symbols/sample.md
-
-
-#        - 'Counter-Divine Will':
-#            - Symbols/cdw/index.md
-#            - Sample: Symbols/cdw/sample.md
-#    - Elements:
-#        - symbols/elements/index.md
-#        - Earth: symbols/elements/earth.md
-#        - Air:  symbols/elements/air.md
-#        - F█re: symbols/elements/f█re.md
-#        - Wat█r: symbols/elements/wat█r.md
-#        - Spir█t: symbols/elements/spir█t.md
-#        - Met█l: symbols/elements/met█l.md
+        - 'Counter-Divine Will':
+            - Symbols/cdw/index.md
+            - Sample: Symbols/cdw/sample.md
+        - Elements:
+            - symbols/elements/index.md
+            - Earth: symbols/elements/earth.md
+            - Air:  symbols/elements/air.md
+            - F█re: symbols/elements/f█re.md
+            - Wat█r: symbols/elements/wat█r.md
+            - Spir█t: symbols/elements/spir█t.md
+            - Met█l: symbols/elements/met█l.md
 
 
 # Extensions
