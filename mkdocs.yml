@@ -48,13 +48,13 @@ nav:
 #        - Page 1: Section/page1.md
 #        - Page 2: Section/page2.md
     - Summary: index.md
-    - Frequent Answers:
+    - 'Frequent Answers':
         - FrequentAnswers/index.md
-        - Sample Answer: FrequentAnswers/sample.md
+        - 'Sample Answer': FrequentAnswers/sample.md
     - Symbols:
         - Symbols/index.md
         - Sample: Symbols/sample.md
-        - Counter-Divine Will:
+        - 'Counter-Divine Will':
             - Symbols/cdw/index.md
             - Sample: Symbols/cdw/sample.md
 #    - Elements:
