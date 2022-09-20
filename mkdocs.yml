@@ -51,7 +51,8 @@ nav:
     - 'Frequent Answers':
         - FrequentAnswers/index.md
         - 'Sample Answer': FrequentAnswers/sample.md
-    - Symbols: Symbols/index.md
+    - Symbols:
+        - 'Symbols/index.md'
         - Sample: Symbols/sample.md
         - 'Counter-Divine Will':
             - Symbols/cdw/index.md
