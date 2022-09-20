@@ -62,7 +62,8 @@ nav:
             - Wat█r: Symbols/Elements/Wat█r.md
             - Spir█t: Symbols/Elements/Spir█t.md
             - Met█l: Symbols/Elements/Met█l.md
-
+        - Idols:
+            - Symbols/Idols/index.md
 
 # Extensions
 markdown_extensions:
