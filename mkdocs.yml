@@ -54,9 +54,9 @@ nav:
     - Symbols:
         - 'Symbols/index.md'
         - Sample: Symbols/sample.md
-        - 'Counter-Divine Will':
-            - Symbols/cdw/index.md
-            - Sample: Symbols/cdw/sample.md
+#        - 'Counter-Divine Will':
+#            - Symbols/cdw/index.md
+#            - Sample: Symbols/cdw/sample.md
 #    - Elements:
 #        - symbols/elements/index.md
 #        - Earth: symbols/elements/earth.md
