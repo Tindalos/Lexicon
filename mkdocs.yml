@@ -59,12 +59,12 @@ nav:
             - Sample: Symbols/cdw/sample.md
         - Elements:
             - Symbols/Elements/index.md
-            - Earth: Symbols/Elements/earth.md
-            - Air:  Symbols/Elements/air.md
-#            - F█re: Symbols/Elements/f█re.md
-#            - Wat█r: Symbols/Elements/wat█r.md
-#            - Spir█t: Symbols/Elements/spir█t.md
-#            - Met█l: Symbols/Elements/met█l.md
+            - Earth: Symbols/Elements/Earth.md
+            - Air:  Symbols/Elements/Air.md
+#            - F█re: Symbols/Elements/F█re.md
+#            - Wat█r: Symbols/Elements/Wat█r.md
+#            - Spir█t: Symbols/Elements/Spir█t.md
+#            - Met█l: Symbols/Elements/Met█l.md
 
 
 # Extensions
