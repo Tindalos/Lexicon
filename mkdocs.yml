@@ -42,11 +42,6 @@ theme:
 #      - navigation.sections
 
 nav:
-#    - Home: index.md
-#    - Section: 
-#        - Section/index.md
-#        - Page 1: Section/page1.md
-#        - Page 2: Section/page2.md
     - Summary: index.md
     - 'Frequent Answers':
         - FrequentAnswers/index.md
@@ -72,6 +67,7 @@ nav:
             - Dre█m: Symbols/Basics/Dre█m.md
             - In Container: Symbols/Basics/InContainer.md
             - Ch█nge: Symbols/Basics/Ch█nge.md
+            - Myst█ry: Symbols/Basics/Myst█ry.md
         - Elements:
             - Symbols/Elements/index.md
             - Earth: Symbols/Elements/Earth.md
