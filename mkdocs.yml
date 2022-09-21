@@ -85,6 +85,9 @@ nav:
             - [Yell█w]: Symbols/Col█rs/Yell█w.md
         - 'Modes':
             - Symbols/Modes/index.md
+    - Tropes:
+        - Tropes/index.md
+        - No Anti: Tropes/NoAnti.md
 
 # Extensions
 markdown_extensions:
