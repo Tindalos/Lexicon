@@ -59,30 +59,30 @@ nav:
             - Symbols/cdw/index.md
         - Elements:
             - Symbols/Elements/index.md
-            - '[Earth]': Symbols/Elements/Earth.md
-            - '[Air]':  Symbols/Elements/Air.md
-            - '[F█re]': Symbols/Elements/F█re.md
-            - '[Wat█r]': Symbols/Elements/Wat█r.md
-            - '[Spir█t]': Symbols/Elements/Spir█t.md
-            - '[Met█l]': Symbols/Elements/Met█l.md
+            - Earth: Symbols/Elements/Earth.md
+            - Air:  Symbols/Elements/Air.md
+            - F█re: Symbols/Elements/F█re.md
+            - Wat█r: Symbols/Elements/Wat█r.md
+            - Spir█t: Symbols/Elements/Spir█t.md
+            - Met█l: Symbols/Elements/Met█l.md
         - Idols:
             - Symbols/Idols/index.md
-            - '[Isht█r]': Symbols/Idols/Isht█r.md
-            - '[Ze█s]': Symbols/Idols/Ze█s.md
-            - '[Fid█s]': Symbols/Idols/Fid█s.md
-            - '[P█n]:' Symbols/Idols/P█n.md
-            - '[B██l]': Symbols/Idols/B██l.md
-            - '[Ar█s]': Symbols/Idols/Ar█s.md
+            - Isht█r: Symbols/Idols/Isht█r.md
+            - Ze█s: Symbols/Idols/Ze█s.md
+            - Fid█s: Symbols/Idols/Fid█s.md
+            - P█n]:' Symbols/Idols/P█n.md
+            - B██l: Symbols/Idols/B██l.md
+            - Ar█s: Symbols/Idols/Ar█s.md
         - Col█rs:
             - Symbols/Col█rs/index.md
-            - '[Bl█ck]': Symbols/Col█rs/Bl█ck.md
-            - '[Blue]': Symbols/Col█rs/Blue.md
-            - '[Br█wn]': Symbols/Col█rs/Br█wn.md
-            - '[Or█nge]': Symbols/Col█rs/Or█nge.md
-            - '[P█rple]': Symbols/Col█rs/P█rple.md
-            - '[R█d]': Symbols/Col█rs/R█d.md
-            - '[Wh█te]': Symbols/Col█rs/Wh█te.md
-            - '[Yell█w]': Symbols/Col█rs/Yell█w.md
+            - Bl█ck: Symbols/Col█rs/Bl█ck.md
+            - Blue: Symbols/Col█rs/Blue.md
+            - Br█wn: Symbols/Col█rs/Br█wn.md
+            - Or█nge: Symbols/Col█rs/Or█nge.md
+            - P█rple: Symbols/Col█rs/P█rple.md
+            - R█d: Symbols/Col█rs/R█d.md
+            - Wh█te: Symbols/Col█rs/Wh█te.md
+            - Yell█w: Symbols/Col█rs/Yell█w.md
         - 'Modes':
             - Symbols/Modes/index.md
     - Tropes:
