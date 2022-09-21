@@ -87,7 +87,7 @@ nav:
             - Symbols/Modes/index.md
     - Tropes:
         - Tropes/index.md
-        - No Anti: Tropes/NoAnti.md
+        - No Anti-: Tropes/NoAnti.md
 
 # Extensions
 markdown_extensions:
