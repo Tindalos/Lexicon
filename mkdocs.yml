@@ -75,16 +75,18 @@ nav:
             - B██l: Symbols/Idols/B██l.md
             - Ar█s: Symbols/Idols/Ar█s.md
             - Mol█ch: Symbols/Idols/Mol█ch.md
-        - Col█rs:
-            - Symbols/Col█rs/index.md
-            - Bl█ck: Symbols/Col█rs/Bl█ck.md
-            - Blue: Symbols/Col█rs/Blue.md
-            - Br█wn: Symbols/Col█rs/Br█wn.md
-            - Or█nge: Symbols/Col█rs/Or█nge.md
-            - P█rple: Symbols/Col█rs/P█rple.md
-            - R█d: Symbols/Col█rs/R█d.md
-            - Wh█te: Symbols/Col█rs/Wh█te.md
-            - Yell█w: Symbols/Col█rs/Yell█w.md
+        - Efforts In-Process:
+            - Symbols/In-Process/index.md
+            - Col█rs:
+                - Symbols/In-Process/Col█rs/index.md
+                - Bl█ck: Symbols/In-Process/Col█rs/Bl█ck.md
+                - Blue: Symbols/In-Process/Col█rs/Blue.md
+                - Br█wn: Symbols/In-Process/Col█rs/Br█wn.md
+                - Or█nge: Symbols/In-Process/Col█rs/Or█nge.md
+                - P█rple: Symbols/In-Process/Col█rs/P█rple.md
+                - R█d: Symbols/In-Process/Col█rs/R█d.md
+                - Wh█te: Symbols/In-Process/Col█rs/Wh█te.md
+                - Yell█w: Symbols/In-Process/Col█rs/Yell█w.md
         - 'Modes':
             - Symbols/Modes/index.md
     - Tropes:

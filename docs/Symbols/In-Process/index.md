@@ -1,0 +1,1 @@
+# 'Efforts In-Process' symbols
