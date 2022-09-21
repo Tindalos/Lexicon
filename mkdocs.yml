@@ -50,6 +50,8 @@ nav:
     - Summary: index.md
     - 'Frequent Answers':
         - FrequentAnswers/index.md
+        - Why I redact: FrequentAnswers/Redaction.md
+        - Who these guys are: FrequentAnswers/TheseGuys.md
     - Symbols:
         - Symbols/index.md
         - 'Counter-Divine Will':
@@ -64,6 +66,13 @@ nav:
             - Met█l: Symbols/Elements/Met█l.md
         - Idols:
             - Symbols/Idols/index.md
+            - Isht█r: Symbols/Idols/Isht█r.md
+            - Ze█s: Symbols/Idols/Ze█s.md
+            - Fid█s: Symbols/Idols/Fid█s.md
+            - P█n: Symbols/Idols/P█n.md
+            - B██l: Symbols/Idols/B██l.md
+        - 'Modes':
+            - Symbols/Modes/index.md
 
 # Extensions
 markdown_extensions:
