@@ -1,3 +1,3 @@
-# [Earth]
+# **[Earth]**
 
 Roamlink to [[Air]]

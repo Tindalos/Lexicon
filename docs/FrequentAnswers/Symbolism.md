@@ -1,2 +1,2 @@
-# How symbolism works
+# **How symbolism works**
 

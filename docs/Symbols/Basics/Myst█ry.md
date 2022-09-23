@@ -1,2 +1,2 @@
-# [Myst█ry]
+# **[Myst█ry]**
 

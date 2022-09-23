@@ -1,1 +1,1 @@
-# 'Mode' symbols
+# **'Mode' symbols**
