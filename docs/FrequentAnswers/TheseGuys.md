@@ -20,7 +20,7 @@ Since it uses organizing symbolism and the symbolism of the parent group has eff
 | The Roman empire -> |
 | Roman Catholicism -> |
 | Modern corporate empire-building and the 'Un█ted Nations' |
-<align="left">
+</align="center">
 
 Since each of the subsequent empires and regimes was effectively a franchise of the parent group, that parent group is perfectly fine with using the organizing symbols it had used during and in those regimes.  After all, they consider them 'theirs'.  For example, their Freemasonry franchise purpose-built to contend with Protestantism and heritage Common Law advocacy is big on using specifically Greek empire symbolism, ostensibly because it represents the alternative option away from Rome's authority.  Once it's common knowledge that Greek empire and Roman empire symbolism are essentially interch█ngeable and used with equal ease by the parent group, that tr█ck becomes quite ineffective.
 
