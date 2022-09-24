@@ -18,5 +18,5 @@ Why would an organization do this, when it could instead distribute its directiv
 
 It's not the only part of course.  When the public learn how to recognize the organizing symbolism, they also become equipped to notice which of their supposedly-authentic neighbors and countrymen have been co-conspirators and oppressors against them.  That gets interesting rather quickly, and even moreso if the public have managed to restore the courts into genuine lawfulness.  Treason, among other things, is still a capital offense in most countries and that's just one component of the various lawless agendas of this organization.
 
-For My full brief on how the People can get this sorted legitimately, fairly, effectively, lawfully and completely, see ***['A Better Solution'](http://DivineWillAssembly.com/2021/07/03/a-better-solution/)***
+For My full brief on how the People can get this sorted legitimately, fairly, effectively, lawfully and completely, see ***['A Better Solution'](http://DivineWillAssembly.com/2021/07/03/a-better-solution/)***.
 
