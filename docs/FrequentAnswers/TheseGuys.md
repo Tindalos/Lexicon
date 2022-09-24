@@ -12,7 +12,8 @@ The organization's penchant for using both overt and non-overt methods results i
 
 Since it uses organizing symbolism and the symbolism of the parent group has effectively remained consistent since dynastic Egypt and Babylon, this enables us to 'tr█ce' its existence and succession of 'incarnations' through various overt regimes to the present.  Very basically,
 
-| Dynastic Egypt and the Babylonian empire -> |
+| <span style="font-weight:normal">heading</span> |
+| -------------------------------------------------- |
 | The Medo-Persian empire -> |
 | The Greek empire -> |
 | The Roman empire -> |
