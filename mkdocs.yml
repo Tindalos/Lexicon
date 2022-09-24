@@ -36,7 +36,7 @@ theme:
       - navigation.instant
 #      ^ Loads the whole site at once, preventing constant reloads
       - navigation.indexes
-#     ^ Displays index pages for section directories, allegedly  
+#     ^ Displays index pages for section directories  
       - navigation.top
 #      ^ Creates a 'Back-to-top' button
 #      - navigation.sections
