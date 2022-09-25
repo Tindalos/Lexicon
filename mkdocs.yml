@@ -10,10 +10,6 @@ theme:
     name: 'material'
     palette:
 
-    icon:
-      admonition:
-        info: material/cloud-alert
-
     # Light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
@@ -31,7 +27,10 @@ theme:
       toggle:
         icon: material/toggle-switch
         name: Switch to light mode
-  
+        
+    icon:
+      admonition:
+      info: material/cloud-alert
 
     features:
       - navigation.instant
@@ -129,7 +128,7 @@ markdown_extensions:
   # - attr_list
   - pymdownx.arithmatex:
       generic: true
-     - pymdownx.superfences
+  #  - pymdownx.superfences
   #  - pymdownx.details
   # - pymdownx.magiclink
   - pymdownx.tasklist:
