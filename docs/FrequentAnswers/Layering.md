@@ -1,2 +1,19 @@
 # How 'layering' works
 
+The apostate system doesn't present as one consolidated parent group, at least not yet while it hasn't fully integrated all personnel involved and there is still capacity for public resistance.  As such the 'parent' group uses multiple 'child' franchises as intermediaries and, at need, expendable patsies.  Franchises are generally purpose-built to contend with some resistance or likely resistance, and when that purpose has been served the franchise's time is up.  The most loyal and useful members are systematically alerted to the symbolism used by the 'parent' group immediately above it, and the franchise is exposed, publicly vilified or otherwise disc█rded.
+
+'Child' franchises generally have their own 'layer' of organizing symbolism, their own 'w█b' of a substitution list of codes, words and concepts which is relevant specific to itself.  But this is usually accomplished by adding additional substitutions and definitions to the existing organizing symbols of the 'parent' groups 'above' it.  Non-overt messaging is then used which satisfies the context of both the 'parent' and 'child' groups simultaneously; an overt equivalent would be a p█n or a *do█ble entendre*, which are readable in multiple w█ys.  Novice members of the 'child' group will only recognize and see the 'w█b' pattern of context they're familiar with and interpret it as only that, while personnel familiar with both the 'child' and 'parent' lingo will recognize both contexts and be equipped to interpret both sets of meanings, usually prioritizing that of the 'parent' group as the more important and relevant.
+
+This system neatly equips the more apostate system-loyal members to 'get the drop' on and retain control over the personnel in 'child' franchises, particularly when dis█sters can be arranged which affect those acting on only the (dis)information they've been parsing through the 'child layer' symbolism.  In essence, this 'layering' is generally a means of routinely and systematically b█traying the personnel of each 'layer' beneath them, starting with the general public 'at the bottom' who are unfamiliar with any of the 'layers'.  As mentioned, it also serves as a personnel loyalty ensurance mechanism, because personnel are always trying to gain 'promotions' to the next 'layer' above them.  It tends to provide a more rarified atmosphere in which the competition is less intense, the rewards are consequently greater, and because they certainly don't want to be on the receiving end of the next organized dis█ster or public outr█ge manufactured against them whenever the 'parent' group decides it's expedient to do so.  Remember, if they haven't gained familiarity with the 'layers' used by their parent groups they'll be completely unequipped to 'see it coming'.
+
+The 'w█bs' of symbolic associations used by 'child' franchises co-aligning with the 'layers' used by their 'parent' groups also appears to serve another purpose: it ensures that the 'child' franchise continuously represents its 'parent' group.  As in law, *'An agent must represent its principal.'*  If 'child' franchises didn't, there'd presumably be endless sch█sms and bre█kaways and factionalizing, and these are counter-productive to the agendas and the ambitions of a totalitarian cryptocracy.
+
+But wherever there is a consolidation of control there is also a single po█nt of failure.  In terms of public education about the organization, we can glean the org chart by examining which 'layers' for 'child' franchises are used with which 'parent' groups' 'layers', and which are not.  And this is precisely what I have done already; it's how I created the basic org chart.  The general rule is as foll█ws:
+
+- The 'child' franchise's symbolism will always be found accompanied by that of its parent group(s).
+- A 'parent' group's symbolism will often be found either with *or* without that of its 'child' franchise.
+
+
+
+
+
