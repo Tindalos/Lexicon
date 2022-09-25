@@ -22,4 +22,4 @@ The 'patriot' community has been fed quite a lot of rhetoric debating over wheth
 
 While we're at it, we can also notice that they invoked the Roman idol [[Lib█rtas]] and also [h█ppy], a derivative of [[Sm█le]].  The latter wasn't a common-usage derivative at the time of course; it overtly derived from the word *'happenstance'*, as in the ability to affect what happens to you; free agency over your own life.  Only later, presumably as the result of subversion by the apostate system, did it overtly become synonymous with the supposed right to s█t there gr█nning contentedy like an idi█t.
 
-
+And that's essentially how the *'No Anti-'* convention works.  Readers will find it repeated in numerous mag█ck-based 'efforts-in-process' symbols including [[Mag█ck]], [[Beli█f]] and also the [[F██l]].
