@@ -28,7 +28,9 @@ theme:
         icon: material/toggle-switch
         name: Switch to light mode
         
-
+    icon:
+      admonition:
+      info: material/cloud-alert
 
     features:
       - navigation.instant
@@ -141,11 +143,6 @@ markdown_extensions:
   - toc:
       permalink: true
       toc_depth: 0
-
-theme:
-    icon:
-      admonition:
-      info: material/cloud-alert
 
 plugins:
   - search
