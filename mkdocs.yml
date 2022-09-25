@@ -9,6 +9,7 @@ site_url: https://github.com/tindalos/Lexicon/docs
 theme:
     name: 'material'
     palette:
+
     icon:
       admonition:
         info: material/cloud-alert
