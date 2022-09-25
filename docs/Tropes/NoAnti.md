@@ -16,7 +16,7 @@ And through this, we can analyze and assess the various agendas of the apostate 
  Here's a major historical example of it from the apostate system personnel-wr█tten *'Declaration of Independence'*:
  
 !!! quote 
-      *'We hold these truths to be self-evident, that all men are created equal, that they are endowed by their Creator with certain* **unalienable** *Rights, that among these are Life, Lib█rty and the pursuit of H█ppiness.'*
+      *"We hold these truths to be self-evident, that all men are created equal, that they are endowed by their Creator with certain* **unalienable** *Rights, that among these are Life, Lib█rty and the pursuit of H█ppiness."*
 
 The 'patriot' community has been fed quite a lot of rhetoric debating over whether *'unalienable'* or *'inalienable'* is more correct, and that one means that our rights supposedly are *'in a lien-able condition'*.  That's a distraction.  Either w█y the important thing is that it non-overtly declares and organizes an effort by the apostate system *to 'alienate us'*, that is, to make us foreigners, to our own God-given rights.  And in the interim they appear to have accomplished this quite successfully as we can see from the results.
 
