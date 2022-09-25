@@ -10,9 +10,12 @@ The 'w█bs' of symbolic associations used by 'child' franchises co-aligning wit
 
 But wherever there is a consolidation of control there is also a single po█nt of failure.  In terms of public education about the organization, we can glean the org chart by examining which 'layers' for 'child' franchises are used with which 'parent' groups' 'layers', and which are not.  And this is precisely what I have done already; it's how I created the basic org chart.  The general rule is as foll█ws:
 
-- The 'child' franchise's symbolism will always be found accompanied by that of its parent group(s).
+- A 'child' franchise's symbolism will always be found accompanied by that of its parent group(s).
 - A 'parent' group's symbolism will often be found either with *or* without that of its 'child' franchise.
 
+For the sake of reader convenience, prioritization and simplicity I don't intend to get much into the symbolism used by the 'child' groups in this Lexicon; we'll be orienting specifically on that of the major 'parent' group, the Babylonian Kabbalists.
+
+Later, there is always the option of My opening new Lexicons for each of the 'child' groups.  It certainly would better-corroborate the pattern for the general public, relegating the apostate system to denying it if they dare or enduring liability for their handiwork as they must.
 
 
 
