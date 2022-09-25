@@ -18,5 +18,8 @@ And through this, we can analyze and assess the various agendas of the apostate 
 !!! quote 
       *'We hold these truths to be self-evident, that all men are created equal, that they are endowed by their Creator with certain* **unalienable** *Rights, that among these are Life, Lib█rty and the pursuit of H█ppiness.'*
 
+The 'patriot' community has been fed quite a lot of rhetoric debating over whether *'unalienable'* or *'inalienable'* is more correct, and that one means that our rights supposedly are *'in a lien-able condition'*.  That's a distraction.  Either w█y the important thing is that it non-overtly declares and organizes an effort by the apostate system *to 'alienate us'*, that is, to make us foreigners, to our own God-given rights.  And in the interim they appear to have accomplished this quite successfully as we can see from the results.
+
+While we're at it, we can also notice that they invoked the Roman idol [[Lib█rtas]] and also [h█ppy], a derivative of [[Sm█le]].  The latter wasn't a common-usage derivative at the time of course; it overtly derived from the word 'happenstance', as in the ability to affect what happens to you; free agency over your own life.  Only later, presumably as the result of subversion by the apostate system, did it overtly become synonymous with the supposed right to s█t there gr█nning contentedy like an idi█t.
 
 
