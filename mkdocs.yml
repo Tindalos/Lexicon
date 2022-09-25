@@ -30,7 +30,7 @@ theme:
         
     icon:
       admonition:
-      info: material/cloud-alert
+        info: material/cloud-alert
 
     features:
       - navigation.instant
