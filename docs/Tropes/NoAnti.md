@@ -15,7 +15,9 @@ The Babylonian Kabbalists use negation concepts like *'Anti-'*, *'Not'* and *'no
 And through this, we can analyze and assess the various agendas of the apostate system at any given time. 
  Here's a major historical example of it from the apostate system personnel-wr█tten *'Declaration of Independence'*:
  
- !!! note "" *'We hold these truths to be self-evident, that all men are created equal, that they are endowed by their Creator with certain unalienable Rights, that among these are Life, Lib█rty and the pursuit of H█ppiness.'*
+ !!! note "" 
+ 
+     *'We hold these truths to be self-evident, that all men are created equal, that they are endowed by their Creator with certain* **unalienable** *Rights, that among these are Life, Lib█rty and the pursuit of H█ppiness.'*
 
 
 
