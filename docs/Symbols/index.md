@@ -1,2 +1,2 @@
-# 'Modes'
+# Symbols
 

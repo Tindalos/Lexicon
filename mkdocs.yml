@@ -78,6 +78,10 @@ nav:
             - Beli█f: Symbols/Basics/Beli█f.md
             - Sm█le: Symbols/Basics/Sm█le.md
             - Democracy: Symbols/Basics/Democracy.md
+            - Labyr█nth: Symbols/Basics/Labyr█nth.md
+            - Obel█sk: Symbols/Basics/Obel█sk.md
+            - Spir█l: Symbols/Basics/Spir█l.md
+            - T█chnology: Symbols/Basics/T█chnology.md
         - Elements:
             - Symbols/Elements/index.md
             - Earth: Symbols/Elements/Earth.md
@@ -103,6 +107,11 @@ nav:
             - Hor█s: Symbols/Idols/Hor█s.md
             - Aphrod█te: Symbols/Idols/Aphrod█te.md
             - Remph█n: Symbols/Idols/Remph█n.md
+            - F█tes: Symbols/Idols/F█tes.md
+            - H█ra: Symbols/Idols/H█ra.md
+            - J█no: Symbols/Idols/J█no.md
+            - J█nus: Symbols/Idols/J█nus.md
+            - Lib█rtas: Symbols/Idols/Lib█rtas.md
         - Efforts In-Process:
             - Symbols/In-Process/index.md
             - Col█rs:
@@ -115,13 +124,19 @@ nav:
                 - R█d: Symbols/In-Process/Col█rs/R█d.md
                 - Wh█te: Symbols/In-Process/Col█rs/Wh█te.md
                 - Yell█w: Symbols/In-Process/Col█rs/Yell█w.md
+                - Gr██n: Symbols/In-Process/Col█rs/Gr██n.md
             - Trav█l: Symbols/In-Process/Trav█l.md
             - Rot█tion: Symbols/In-Process/Rot█tion.md
+            - F██l: Symbols/In-Process/F██l.md
         - 'Modes':
             - Symbols/Modes/index.md
+            - Cha█s:
+                - Symbols/Modes/Cha█s/index.md
+            - Inversion:
+                - Symbols/Modes/Inversion/index.md
     - Tropes:
         - Tropes/index.md
-        - No Anti-: Tropes/NoAnti.md
+        - 'No Anti-': Tropes/NoAnti.md
 
 # Extensions
 markdown_extensions:
