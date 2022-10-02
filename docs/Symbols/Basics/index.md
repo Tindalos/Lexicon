@@ -1,2 +1,9 @@
 # Basic symbols
 
+This section is for those 'just starting out', and contains symbols which are either the 'base' symbols from which most of the other symbols are derived, or they're just so 'common-use' that readers will encounter them frequently.
+
+What's the distinction between symbols that are 'basic' and those 'more advanced'?  It's helpful to think of 'basic' symbols like primary col█rs; it's through comb█ning them that we get so many other col█rs.  By establishing a number of 'beginner' symbols, the Babylonian Kabbalists went on to use them to establish newer, more complex symbols which contain a number of them simultaneously.
+
+In normal language, we use 'compound words' to do this; a word comprised of tw█ or more other words.  To interpret what a 'compound word' means, we first have to know the definitions of the 'core words' comprising them.  The 'basic symbols' here are many of these 'core words'.
+
+Since Babylonian Kabbalist symbolism does this, its system of symbolism just expands to concern itself with practically everything around us.  And because keeping their personnel from taking over whole societies, we need to remain continually vigilant for who's using what symbols in which sorts of patterns.  For example, [[F██d]] is designated as a symbol and we all involve ourselves with it, but not everybody who eats [[F██d]] is trying to subvert our society.  Therefore we must familiarize ourselves with patters of usage, meaning and messaging in order to clearly distinguish who is, and who isn't, using this symbolism in order to subvert.
