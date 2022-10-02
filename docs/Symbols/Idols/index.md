@@ -29,6 +29,6 @@ As described under 'Frequent Answers' the apostate system doesn't rely on the co
 
 But what's all this got to do with modern society?  We don't have absurd idols, with temples and cults practicing everywhere, right?
 
-Because these cults represent proprietary methods and mechanisms, and because they can operate non-overtly, many of these same methods are still practiced without all the elaborate presentations.  Many of those proprietary methods have been inherited by modern franchises of the apostate system, like the stereotypical organized crime syndicates for example, so they're still deployed with merely an organization resh█ffle.
+Because these cults represent proprietary methods and mechanisms, and because they can operate non-overtly, many of these same methods are still practiced without all the elaborate presentations.  Many of those proprietary methods have been inherited by modern franchises of the apostate system, like the stereotypical organized crime syndicates for example, so they're still deployed with merely a modernized organizational resh█ffle.
 
 The symbols associated with each idol are used even now by the various franchises of the apostate system, and upon gaining familiarity with them we'll be able to notice them routinely, systematically and consistently used throughout the reporting media, in corporate names, logos, slogans, and advertising, throughout present-era sociopolitical efforts, and in the wording and gestures used by politicians, the Un█ted Nations, and even the papacy.
