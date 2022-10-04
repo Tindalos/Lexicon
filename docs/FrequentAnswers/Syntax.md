@@ -20,3 +20,10 @@ With the apostate system adding their own multiple definitions to ordinary words
 `""`
 
 :    Specifies that I'm using a word or term in its symbolic, non-overt sense
+
+`Me, My, Myself`
+
+:    Generally k█ngs and the papacy use self-capitalization to declare that they, themselves, are 'Divine'
+:    I use it to remind they and the People that all rights and legitimate authority is Divine Will-derived, and having a claim on either is contingent with alignment with Divine Will
+:    Also to clearly declare that My Choice of basis is that which is in alignment with Divine Will
+
