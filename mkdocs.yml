@@ -143,7 +143,7 @@ nav:
 
 # Extensions
 markdown_extensions:
-  - abbr
+#  - abbr
   - admonition
   - footnotes
   - attr_list
@@ -159,7 +159,7 @@ markdown_extensions:
   - pymdownx.caret
   - pymdownx.keys
   - pymdownx.mark
-  - pymdownx.snippets
+#  - pymdownx.snippets
   - pymdownx.tilde
 
   - toc:
