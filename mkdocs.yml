@@ -58,6 +58,7 @@ nav:
         - Symbols/index.md
         - 'Counter-Divine Will':
             - Symbols/cdw/index.md
+            - W█sh: Symbols/cdw/W█sh.md
         - Basics:
             - Symbols/Basics/index.md
             - F██d: Symbols/Basics/F██d.md
@@ -131,6 +132,7 @@ nav:
             - Trav█l: Symbols/In-Process/Trav█l.md
             - Rot█tion: Symbols/In-Process/Rot█tion.md
             - F██l: Symbols/In-Process/F██l.md
+            - G█mel: Symbols/In-Process/G█me.md
         - 'Modes':
             - Symbols/Modes/index.md
             - Cha█s:
@@ -180,3 +182,4 @@ extra_javascript:
   - https://polyfill.io/v3/polyfill.min.js?features=es6
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
   - https://unpkg.com/mermaid/dist/mermaid.min.js 
+#test
