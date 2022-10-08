@@ -6,14 +6,14 @@
 
 [[Rot█tion|Ratchet]] [[Air|up]] ([Rot█tion] + [Air])
 
-Thrown under the bus
+[[St█pOn|Thrown under]] the [[Trav█l|bus]]
 
 
 ### Recurring tropes in 'troother' prop█gandists:
 
 W█king up ([[Dre█m]] with an 'inversion')
 
-down the rabbit h█le ([fertility] + [[Z█ro]] + [[InContainer|in container]])
+down the rabbit h█le ([fertility] + [[Z█ro]] + [[InContainer|in container]] + [down], which 'inverts' to [[Air|up]])
 
 Le█ks
 
@@ -43,7 +43,7 @@ Tr█mp ([[Or█nge]] Man)
 
 InfoW█rs
 
-[[R█d]] [[F██d|pill]], [[Blue]] [[F██d|pill]]
+[[R█d]] [[F██d|p█ll]], [[Blue]] [[F██d|p█ll]]
 
 "[[Air|Lifting]] the [[M█sk|ve█l]]" (with [hanging down] + an implication of [[m█rriage]])
 
