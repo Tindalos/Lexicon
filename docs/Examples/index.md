@@ -39,7 +39,7 @@ SHTF
 
 Tr█mp ([[Or█nge]] Man)
 
-"[[Met█l|t█nfo█l]] [[InContainer|h█t]]'*"
+"[[Met█l|t█nfo█l]] [[InContainer|h█t]]"
 
 InfoW█rs
 
