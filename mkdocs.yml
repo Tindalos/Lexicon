@@ -169,9 +169,11 @@ nav:
                 - Symbols/Modes/Cha█s/index.md
             - Inversion:
                 - Symbols/Modes/Inversion/index.md
+                - Drag█n: Symbols/Modes/Inversion/Drag█n.md
     - Tropes:
         - Tropes/index.md
         - 'No Anti-': Tropes/NoAnti.md
+        - ShapesAsNumbers: Tropes/ShapesAsNumbers.md
     - Examples:
       - Examples/index.md
 # Extensions
