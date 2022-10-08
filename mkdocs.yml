@@ -59,6 +59,9 @@ nav:
         - 'Counter-Divine Will':
             - Symbols/cdw/index.md
             - W█sh: Symbols/cdw/W█sh.md
+            - Fec█s: Symbols/cdw/Fec█s.md
+            - Corporation: Symbols/cdw/Corporation.md
+            - Vir█s: Symbols/cdw/Vir█s.md
         - Basics:
             - Symbols/Basics/index.md
             - F██d: Symbols/Basics/F██d.md
@@ -67,7 +70,7 @@ nav:
             - Gem█ni: Symbols/Basics/Gem█ni.md
             - D█ll: Symbols/Basics/D█ll.md
             - M█sk: Symbols/Basics/M█sk.md
-            - The█ter: Symbols/Basics/The█ter.md
+            - Perf█rmance: Symbols/Basics/Perf█rmance.md
             - Ch█kras: Symbols/Basics/Ch█kras.md
             - L█ve: Symbols/Basics/L█ve.md
             - D█rkness: Symbols/Basics/D█rkness.md
@@ -86,6 +89,8 @@ nav:
             - Spir█l: Symbols/Basics/Spir█l.md
             - T█chnology: Symbols/Basics/T█chnology.md
             - J█mp: Symbols/Basics/J█mp.md
+            - Po█nt: Symbols/Basics/Po█nt.md
+            - M█rriage: Symbols/Basics/M█rriage.md
         - Elements:
             - Symbols/Elements/index.md
             - Earth: Symbols/Elements/Earth.md
@@ -95,6 +100,7 @@ nav:
             - Spir█t: Symbols/Elements/Spir█t.md
             - Met█l: Symbols/Elements/Met█l.md
             - D█st: Symbols/Elements/D█st.md
+            - Gl█ss: Symbols/Elements/Gl█ss.md
         - Idols:
             - Symbols/Idols/index.md
             - Isht█r: Symbols/Idols/Isht█r.md
@@ -116,6 +122,7 @@ nav:
             - J█no: Symbols/Idols/J█no.md
             - J█nus: Symbols/Idols/J█nus.md
             - Lib█rtas: Symbols/Idols/Lib█rtas.md
+            - Nem█sis: Symbols/Idols/Nem█sis.md
         - Efforts In-Process:
             - Symbols/In-Process/index.md
             - Col█rs:
@@ -132,7 +139,30 @@ nav:
             - Trav█l: Symbols/In-Process/Trav█l.md
             - Rot█tion: Symbols/In-Process/Rot█tion.md
             - F██l: Symbols/In-Process/F██l.md
-            - G█mel: Symbols/In-Process/G█me.md
+            - G█me: Symbols/In-Process/G█me.md
+            - Em█tion: Symbols/In-Process/Em█tion.md
+        - Numbers:
+            - Symbols/Numbers/index.md
+            - Z█ro: Symbols/Numbers/Z█ro.md
+            - One: Symbols/Numbers/One.md
+            - Tw█: Symbols/Numbers/Tw█.md
+            - Thr██: Symbols/Numbers/Thr██.md
+            - Fo█r: Symbols/Numbers/Fo█r.md
+            - Five: Symbols/Numbers/Five.md
+            - S█x: Symbols/Numbers/S█x.md
+            - Seven: Symbols/Numbers/Seven.md
+            - E█ght: Symbols/Numbers/E█ght.md
+            - N█ne: Symbols/Numbers/N█ne.md
+            - T█n: Symbols/Numbers/T█n.md
+            - El█ven: Symbols/Numbers/El█ven.md
+            - Tw█nty-Tw█: Symbols/Numbers/Tw█nty-Tw█.md
+            - Inf█nity: Symbols/Numbers/Inf█nity.md
+        - Visual:
+            - Symbols/Visual/index.md
+            - W█vy L█nes: Symbols/Visual/W█vyL█ne.md
+            - Stra█ght L█nes: Symbols/Visual/Stra█ghtL█ne.md
+            - Jagged L█nes: Symbols/Visual/JaggedL█ne.md
+            - Spir█l: Symbols/Visual/Spir█l.md
         - 'Modes':
             - Symbols/Modes/index.md
             - Cha█s:
@@ -142,7 +172,8 @@ nav:
     - Tropes:
         - Tropes/index.md
         - 'No Anti-': Tropes/NoAnti.md
-
+    - Examples:
+      - Examples/index.md
 # Extensions
 markdown_extensions:
 #  - abbr

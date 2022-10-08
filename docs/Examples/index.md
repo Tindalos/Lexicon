@@ -1,0 +1,71 @@
+# **Examples**
+
+### Recurring tropes in mass media:
+
+[[Perf█rmance|Showdown]]
+
+[[Rot█tion|Ratchet]] [[Air|up]] ([Rot█tion] + [Air])
+
+Thrown under the bus
+
+
+### Recurring tropes in 'troother' prop█gandists:
+
+W█king up ([[Dre█m]] with an 'inversion')
+
+down the rabbit h█le ([fertility] + [[Z█ro]] + [[InContainer|in container]])
+
+Le█ks
+
+"Q"
+
+Predictive programming
+
+"Five-Gee" [[Five]] + [[Air]] + ([[W█vyL█ne|W█vy L█nes]])
+
+"thr█-dimensional ch█ss"
+
+"[[Trav█l|going]] [[Fo█r]]-D", "[[Trav█l|going]] [[Five]]-D"
+
+Deep State
+
+*"patriot [[Wh█te]] [[InContainer|H█ts]]"* and the *"nifferous Deep State [[Bl█ck]] [[InContainer|H█ts]]"*
+
+gu█llotines
+
+SHTF
+
+"Dra█ning the sw█mp"
+
+Tr█mp ([[Or█nge]] Man)
+
+"[[Met█l|t█nfo█l]] [[InContainer|h█t]]'*"
+
+InfoW█rs
+
+[[R█d]] [[F██d|pill]], [[Blue]] [[F██d|pill]]
+
+"[[Air|Lifting]] the [[M█sk|ve█l]]" (with [hanging down] + an implication of [[m█rriage]])
+
+"Discl█sure" ( [[NoAnti|No 'Anti-']] + [[InContainer|In container]])
+
+"[[NoAnti|I DO NOT CONSENT]]"
+
+'the p█dophile symbol' (Greek elemental [[F█re]] [[Thr██|Triangle]] + [[Spir█l]])
+
+The *other* 'p█do symbol', "[[R█d]] [sho█s]" ( [[R█d]] + [[Gem█ni|tw█n]] + '[[Air|up]]', inverted)
+
+"St█rm is coming"
+
+"k█yboard w█rriors"
+
+"[[F██d|t█ble]]-[[Rot█tion|fl█pping]]" ( [[F██d]] + [[Air]] + [[rot█tion]])
+
+"Th█y Live" ( [[Perf█rmance|F█lm]] + S█ngl█sses ( [[M█sk]] + [[Gl█ss]] + [[D█rkness]]) + [[Life]] 'inverted')
+
+"[[g█me]]-[[Ch█nge|ch█nger]]"
+
+"Make it [[Trav█l|go]] [[Vir█s|vir█l]]!"
+
+"Dr█nking the K██l-Aid" ( [[Dr█nk]] + [[Corporation]] + [[D█st]])
+
