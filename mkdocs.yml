@@ -92,6 +92,11 @@ nav:
             - Po█nt: Symbols/Basics/Po█nt.md
             - M█rriage: Symbols/Basics/M█rriage.md
             - St█p On: Symbols/Basics/St█pOn.md
+            - Dece█t: Symbols/Basics/Dece█t.md
+            - Voice: Symbols/Basics/Voice.md
+            - Expl█sion: Symbols/Basics/Expl█sion.md
+            - W█r: Symbols/Basics/W█r.md
+            - Br█dge: Symbols/Basics/Br█dge.md
         - Elements:
             - Symbols/Elements/index.md
             - Earth: Symbols/Elements/Earth.md
@@ -124,6 +129,7 @@ nav:
             - J█nus: Symbols/Idols/J█nus.md
             - Lib█rtas: Symbols/Idols/Lib█rtas.md
             - Nem█sis: Symbols/Idols/Nem█sis.md
+            - Atl█s: Symbols/Idols/Atl█s.md
         - Efforts In-Process:
             - Symbols/In-Process/index.md
             - Col█rs:
@@ -164,6 +170,9 @@ nav:
             - Stra█ght L█nes: Symbols/Visual/Stra█ghtL█ne.md
             - Jagged L█nes: Symbols/Visual/JaggedL█ne.md
             - Spir█l: Symbols/Visual/Spir█l.md
+            - B██l-Had█d: Symbols/Visual/B██l-Had█d.md
+            - Diag█nalL█ne: Symbols/Visual/Diag█nalL█ne.md
+            - Do█bleTr█angle: Symbols/Visual/Do█bleTr█angle.md
         - 'Modes':
             - Symbols/Modes/index.md
             - Cha█s:
@@ -171,11 +180,16 @@ nav:
             - Inversion:
                 - Symbols/Modes/Inversion/index.md
                 - Drag█n: Symbols/Modes/Inversion/Drag█n.md
+        - Seldom Use:
+            - Symbols/SeldomUse/index.md
+            - R█se: Symbols/SeldomUse/R█se.md
+            - Phoen█x: Symbols/SeldomUse/Phoen█x.md
     - Tropes:
         - Tropes/index.md
         - 'No Anti-': Tropes/NoAnti.md
-        - ShapesAsNumbers: Tropes/ShapesAsNumbers.md
-        - F█therM█therChild: Tropes/F█therM█therChild.md
+        - Geometry as Numbers: Tropes/ShapesAsNumbers.md
+        - F█ther, M█ther, Child: Tropes/F█therM█therChild.md
+        - 'Multiple In-Process Symbols': Tropes/MultipleInProcess.md
     - Examples:
       - Examples/index.md
 # Extensions

@@ -2,18 +2,21 @@
 
 ### Recurring tropes in mass media:
 
-[[Perf█rmance|Showdown]]
+[[Perf█rmance|Showdown]] 
 
 [[Rot█tion|Ratchet]] [[Air|up]] ([Rot█tion] + [Air])
 
 [[St█pOn|Thrown under]] the [[Trav█l|bus]]
 
+Turning a corner
 
 ### Recurring tropes in 'troother' prop█gandists:
 
 W█king up ([[Dre█m]] with an 'inversion')
 
-down the rabbit h█le ([fertility] + [[Z█ro]] + [[InContainer|in container]] + [down], which 'inverts' to [[Air|up]])
+Ascension
+
+down the rabbit h█le ([fertility] + [[z█ro]] + [[InContainer|in container]] + [down], which 'inverts' to [[Air|up]])
 
 Le█ks
 
