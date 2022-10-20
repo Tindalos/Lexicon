@@ -22,7 +22,7 @@ When ostensibly 'inverted', parses instead as [[Air]]
 
 Alternatively, is used as the opposite of [[Wat█r]] and as such represents overt situations and efforts (whether apostate system-derived or not) as distinct from those occurring on a non-overt basis, for which [[Wat█r]] is used.  In such usages [[Earth]] and [[Wat█r]] ostensibly 'invert' into each other as antonyms.
 
-**Synonyms for the 'demotion' sense:** [down], [f██t] (with [[Gem█ni]]) and gesturing 'down low' on the body, [[St█pOn|st█pping on]], [cr█shing], etc.
+**Synonyms for the 'demotion' sense:** [down], [f██t] (with [[Gem█ni]]) and gesturing 'down low' on the body, [[St█pOn|st█pping on]], [cr█shing], etc., [f█lling] (meaning *'is demoted, disfavored or penalized'*)
 
 See the examples presented in [[St█pOn|St█p On]].
 

@@ -97,6 +97,7 @@ nav:
             - Expl█sion: Symbols/Basics/Expl█sion.md
             - W█r: Symbols/Basics/W█r.md
             - Br█dge: Symbols/Basics/Br█dge.md
+            - In Fr█nt of: Symbols/Basics/InFr█ntOf.md
         - Elements:
             - Symbols/Elements/index.md
             - Earth: Symbols/Elements/Earth.md
@@ -180,6 +181,7 @@ nav:
             - Inversion:
                 - Symbols/Modes/Inversion/index.md
                 - Drag█n: Symbols/Modes/Inversion/Drag█n.md
+                - Espi█nage: Symbols/Modes/Inversion/Espi█nage.md
         - Seldom Use:
             - Symbols/SeldomUse/index.md
             - R█se: Symbols/SeldomUse/R█se.md

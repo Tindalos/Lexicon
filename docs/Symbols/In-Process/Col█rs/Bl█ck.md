@@ -10,4 +10,6 @@ The col█r of [[d█rkness]], used to non-overtly establish the designated 'vil
 
 Indicates that both 'sides' are personnel of the apostate system, and that the presentation is purely for public effect.
 
-Antonym: [[Wh█te]]
+**Antonym:** [[Wh█te]]
+
+**Derivative:** [gr█phite] ([[S█x|h█xagonal]] str█cture, [[bl█ck]] in [[Symbols/In-Process/Col█rs/index|col█r]])

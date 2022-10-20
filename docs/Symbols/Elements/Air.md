@@ -28,4 +28,4 @@ When ostensibly 'inverted', parses instead as [[perf█rmance]] or [[z█ro]] an
     This is the establishment of an overt counter-Divine Will basis and the resulting dynastic Egyptian-like sl█very which results.
     It's therefore curious that the first and second listed are internally presumed to be synonymous within the organization, given that [[f█re]] symbolizes a counter-Divine Will basis.
 
-**Synonyms:** [up], [h█nd] (with [[Gem█ni]]) and gesturing 'up high' on the body, [thr█wing], [j█ggling], [h█lding] (esp. [h█lding aloft] as seen frequently in [pa█ntings] and [st█tues]), [b█rd]
+**Synonyms:** [up], [h█nd] (with [[Gem█ni]]) and gesturing 'up high' on the body, [thr█wing], [j█ggling], [h█lding] (esp. [h█lding aloft] as seen frequently in [pa█ntings] and [st█tues]), [b█rd], [rising] (meaning *'is promoted or rewarded'*)

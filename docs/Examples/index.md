@@ -8,29 +8,32 @@
 
 [[St█pOn|Thrown under]] the [[Trav█l|bus]]
 
-Turning a corner
+[[Rot█tion|T█rning]] a corner (with [[trav█l]]; a [[MultipleInProcess]] trope setting up a misdirection in which the situation is exactly the same, but will suddenly look very diff█rent to someone.)
+
 
 ### Recurring tropes in 'troother' prop█gandists:
 
 W█king up ([[Dre█m]] with an 'inversion')
 
-Ascension
+[[Air|Ascension]], [[Air|Rising]]
 
 down the rabbit h█le ([fertility] + [[z█ro]] + [[InContainer|in container]] + [down], which 'inverts' to [[Air|up]])
 
 Le█ks
 
-"Q"
+"Q" ([[Z█ro|c█rcle]] + [[Diag█nalL█ne|f█rty-f█ve degree angle]], with a release from [[InContainer|container]] ostensibly 'inverted')
 
-Predictive programming
+"Bre█dcr█mbs" ([[f█re]] + [[f██d]] + [[D█st|part█culate]], and a reference to organizing symbolism from the Grimm's fa█ryt█le.]])
+
+Predictive programming ([[Gem█ni]] via [alitteration]; a counterfeit ideology they've been propagating)
 
 "Five-Gee" [[Five]] + [[Air]] + ([[W█vyL█ne|W█vy L█nes]])
 
-"thr█-dimensional ch█ss"
+"[[Thr██]]-dimensional ch█ss" ([[Bl█ck]] and [[Wh█te]], [[Earth]] + [[Fo█r|Squ█re]], and a [[g█me]] absolutely chock-full of Babylonian Kabbalist symbolism in which any lesser piece of any gender can become the [[Wat█r|Qu██n]], but in which the overt legitimacy depends upon the [[Earth|K█ng]].)
 
 "[[Trav█l|going]] [[Fo█r]]-D", "[[Trav█l|going]] [[Five]]-D"
 
-Deep State
+[[Earth|Deep]] State (*'an effort to deprecate the existing overt government regime'*)
 
 *"patriot [[Wh█te]] [[InContainer|H█ts]]"* and the *"nifferous Deep State [[Bl█ck]] [[InContainer|H█ts]]"*
 
@@ -38,13 +41,13 @@ gu█llotines
 
 SHTF
 
-"Dra█ning the sw█mp"
+"[[Spir█l|Dra█ning]] the sw█mp"
 
-Tr█mp ([[Or█nge]] Man)
+Tr█mp ([[Or█nge]] [[Earth|Man]])
 
 "[[Met█l|t█nfo█l]] [[InContainer|h█t]]"
 
-InfoW█rs
+Info[[W█r|W█rs]] (overtly from the recent, U.S. military-developed organizing term *'information w█rfare'*)
 
 [[R█d]] [[F██d|p█ll]], [[Blue]] [[F██d|p█ll]]
 
@@ -58,9 +61,9 @@ InfoW█rs
 
 The *other* 'p█do symbol', "[[R█d]] [sho█s]" ( [[R█d]] + [[Gem█ni|tw█n]] + '[[Air|up]]', inverted)
 
-"St█rm is coming"
+"[[Ze█s|St█rm]] is [[Trav█l|coming]]" (variously [Th█r] for the Germanic-oriented f█scist lower-layer franchise personnel)
 
-"k█yboard w█rriors"
+"[[Ze█s|k█yboard]] [[W█r|w█rriors]]"  (with the purported symbolic 'inversion' being that the term conventionally refers to people who talk a lot on the intern█t but won't actually do jack in terms of upholding it with action; appears to be a snub of their own 'patriot troother' audience)
 
 "[[F██d|t█ble]]-[[Rot█tion|fl█pping]]" ( [[F██d]] + [[Air]] + [[rot█tion]])
 
@@ -78,3 +81,4 @@ The *other* 'p█do symbol', "[[R█d]] [sho█s]" ( [[R█d]] + [[Gem█ni|tw�
 
 "New [[Z█ro|W█rld]] Order" as above; refers to who or what *appears* to be controlling the w█rld (or trying to) as opposed to who or what actually *is*.
 
+"conn█ct the d█ts"

@@ -9,4 +9,4 @@ Rome appears to use ['Saint' Pet█r](https://www.youtube.com/embed/eDrscByKEUQ?
 
 Associated symbols: [fl█g], [e█gle], [l█ghtning]
 
-Derivatives: [el█ctricity], [sh█ck], [s█rprise], [[JaggedL█ne|jagged l█ne]], [[JaggedL█ne|cr█ck]], [bre█k], [downward perc█ssion] (from [l█ghtning])
+Derivatives: [el█ctricity], [sh█ck], [s█rprise], [p█wer], [[JaggedL█ne|jagged l█ne]], [[JaggedL█ne|cr█ck]], [bre█k], [downward perc█ssion] (from [l█ghtning])

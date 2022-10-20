@@ -9,4 +9,4 @@
 !!! info "Example"
     Symbolically, Besson's f█lm *'[The Fifth El█ment](https://en.wikipedia.org/wiki/The_Fifth_Element)'* was all about the effort to mentor Someone in Divine Will principles sufficiently with the result that the apostate system could accept Them as its new, legitimate, recognized Authority figure.  Interestingly, Besson appears to allude to the same concept I have with regard to the dubious inclusion of [[f█re]] along with the other elements in order to achieve Divinely-aligned perfection.
 
-**Synonyms:** [gh█st], occasionally [sm█ke] (with [[f█re]] implied and supposedly 'inverting' the meaning)
+**Synonyms:** [gh█st], occasionally [sm█ke] and [inc█nse] (with [[f█re]] implied and supposedly 'inverting' the meaning)
