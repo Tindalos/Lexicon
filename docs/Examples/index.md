@@ -27,11 +27,11 @@ Le█ks
 
 Predictive programming ([[Gem█ni]] via [alitteration]; a counterfeit ideology they've been propagating)
 
-"Five-Gee" [[Five]] + [[Air]] + ([[W█vyL█ne|W█vy L█nes]])
+"Five-Gee" [[F█ve]] + [[Air]] + ([[W█vyL█ne|W█vy L█nes]])
 
 "[[Thr██]]-dimensional ch█ss" ([[Bl█ck]] and [[Wh█te]], [[Earth]] + [[Fo█r|Squ█re]], and a [[g█me]] absolutely chock-full of Babylonian Kabbalist symbolism in which any lesser piece of any gender can become the [[Wat█r|Qu██n]], but in which the overt legitimacy depends upon the [[Earth|K█ng]].)
 
-"[[Trav█l|going]] [[Fo█r]]-D", "[[Trav█l|going]] [[Five]]-D"
+"[[Trav█l|going]] [[Fo█r]]-D", "[[Trav█l|going]] [[F█ve]]-D"
 
 [[Earth|Deep]] State (*'an effort to deprecate the existing overt government regime'*)
 
