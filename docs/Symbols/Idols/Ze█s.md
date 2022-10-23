@@ -9,4 +9,4 @@ Rome appears to use ['Saint' Pet█r](https://www.youtube.com/embed/eDrscByKEUQ?
 
 Associated symbols: [fl█g], [e█gle], [l█ghtning]
 
-Derivatives: [el█ctricity], [sh█ck], [s█rprise], [p█wer], [[JaggedL█ne|jagged l█ne]], [[JaggedL█ne|cr█ck]], [bre█k], [downward perc█ssion] (from [l█ghtning])
+Derivatives: [el█ctricity], [sh█ck], [s█rprise], [p█wer], [sp█rk], [[JaggedL█ne|jagged l█ne]], [[JaggedL█ne|cr█ck]], [bre█k], [downward perc█ssion] (from [l█ghtning]), [rob█t] (with [[Tiam█t]] for the w█ring, [[d█ll]] to represent a f█ke imp█stor contingent and [[t█chnology]] to supply an 'inversion'; refers to franchise personnel on a counter-Divine Will basis 'living' only because the directives of [[Ze█s]] fl█w through them; sl█vish loyalty to the apostate system)

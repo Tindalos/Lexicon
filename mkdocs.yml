@@ -62,6 +62,8 @@ nav:
             - Fec█s: Symbols/cdw/Fec█s.md
             - Corporation: Symbols/cdw/Corporation.md
             - Vir█s: Symbols/cdw/Vir█s.md
+            - Pal█ndrome: Symbols/cdw/Pal█ndrome.md
+            - Pen█tration: Symbols/cdw/Pen█tration.md
         - Basics:
             - Symbols/Basics/index.md
             - F██d: Symbols/Basics/F██d.md
@@ -97,7 +99,8 @@ nav:
             - Expl█sion: Symbols/Basics/Expl█sion.md
             - W█r: Symbols/Basics/W█r.md
             - Br█dge: Symbols/Basics/Br█dge.md
-            - In Fr█nt of: Symbols/Basics/InFr█ntOf.md
+            - In fr█nt of: Symbols/Basics/InFr█ntOf.md
+            - H█nd: Symbols/Basics/H█nd.md
         - Elements:
             - Symbols/Elements/index.md
             - Earth: Symbols/Elements/Earth.md

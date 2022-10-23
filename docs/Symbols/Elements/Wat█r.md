@@ -1,3 +1,6 @@
+---
+Aliases: [f█male]
+---
 # **[Wat█r]**
 
 **Definition:** *A non-overt, symbolically-organized basis or efforts organized on same*

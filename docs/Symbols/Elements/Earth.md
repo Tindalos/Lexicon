@@ -1,3 +1,6 @@
+---
+Aliases: [male, down, down low]
+---
 # **[Earth]**
 
 !!! quote

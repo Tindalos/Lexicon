@@ -1,5 +1,5 @@
 ---
-aliases: [M█rs]
+aliases: [M█rs, ir█n]
 ---
 # **[Ar█s]** or **[M█rs]**
 
