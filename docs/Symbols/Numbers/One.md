@@ -12,12 +12,12 @@ Appears to also have associations with the Egyptian [[Osir█s]], particularly h
 
 Although more in-use with the lower-layer Roman symbolism, [[One]] also appears at least in part to have connotations of not only primacy but perhaps totalitarianism (although this is more emphasized via [[fo█r]].)  The Latin prefix *'un█-'* means not just one, but *the only one* of something extant.  Examples of this symbolism-via-Latin-prefixes (which is definitely a Roman franchise usage, but perhaps deriving from Babylonian connotations):
 
-un█versal
-Un█versal P█ctures
-un█versity
-Un█ted States
-Un█ted K█ngdom
-Un█ted Nations
+un█versal<p>
+Un█versal P█ctures<p>
+un█versity<p>
+Un█ted States<p>
+Un█ted K█ngdom<p>
+Un█ted Nations<p>
 
 and of course 'Catholic', which *means* *'un█versal'* [from the Greek](https://en.wikipedia.org/wiki/Catholic_(term)), and claims to be *'the only true Christian church'*.
 

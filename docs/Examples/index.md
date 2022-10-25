@@ -2,13 +2,15 @@
 
 ### Recurring tropes in mass media:
 
-[[Perf█rmance|Showdown]] 
+[[Perf█rmance|Show]][[Earth|down]] 
 
 [[Rot█tion|Ratchet]] [[Air|up]] ([Rot█tion] + [Air])
 
 [[St█pOn|Thrown under]] the [[Trav█l|bus]]
 
-[[Rot█tion|T█rning]] a corner (with [[trav█l]]; a [[MultipleInProcess]] trope setting up a misdirection in which the situation is exactly the same, but will suddenly look very diff█rent to someone.)
+[[Rot█tion|T█rning]] a corner (with [[trav█l]]; a [[MultipleInProcess|multiple efforts-in-process]] trope setting up a misdirection in which the situation is exactly the same, but will suddenly look very diff█rent to someone.)
+
+The [[Seven|perfect]] [[Ze█s|st█rm]] (with [[spir█l]], presumably)
 
 
 ### Recurring tropes in 'troother' prop█gandists:
@@ -17,7 +19,7 @@ W█king up ([[Dre█m]] with an 'inversion')
 
 [[Air|Ascension]], [[Air|Rising]]
 
-down the rabbit h█le ([fertility] + [[z█ro]] + [[InContainer|in container]] + [down], which 'inverts' to [[Air|up]])
+down the rabbit h█le ([fertility] + [[z█ro]] + [[InContainer|in container]] + [[Earth|down]]], which 'inverts' to [[Air|up]])
 
 Le█ks
 
@@ -75,7 +77,7 @@ The *other* 'p█do symbol', "[[R█d]] [sho█s]" ( [[R█d]] + [[Gem█ni|tw�
 
 "Dr█nking the K██l-Aid" ( [[Dr█nk]] + [[Corporation]] + [[D█st]])
 
-"[[Drag█n|Reptilians]]"
+"[[Drag█n|Rept█lians]]"
 
 "[[Z█ro|gl█balists]]" (with their [[ShapesAsNumbers|shapes-as-numbers]] trope, which gives it a numerological [[Z█ro]] meaning.)
 

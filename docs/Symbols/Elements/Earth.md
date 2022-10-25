@@ -15,7 +15,7 @@ Those definitions are internally regarded within the organization to be synonymo
 
 Depending on the context, these common-usage definitions could apply instead:
 
-**Definition:** *A directive to deprecate, demote or even to extirpate this group, cause, ideology, effort etc. being messaged about
+**Definition:** *A directive to deprecate, demote or even to extirpate this group, cause, ideology, effort etc. being messaged about*
 
 **Definition:** *Things the masses currently desire, insist upon or demand which are deemed obstr█ctive to the efforts of the apostate system*
 
