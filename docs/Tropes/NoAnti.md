@@ -1,4 +1,4 @@
-# No 'Anti-'
+# **No 'Anti-'**
 
 Suppose you're a group of occ█ltists preoccupied with Willworking, and proponents of an ideology that, *'I create as I speak'*.  That's the meaning of the st█ge mag█c term, *'Abracad█bra'*, from the Aramaic *'avra kehd█bra'* used by the Hebrews.  Not only does the preoccupation with Willworking correlate with the idea that the organization is indeed working 'at the top' with supernatural entities, their 'do█ble purposing' of the concept of [[Mag█ck]] to mean 'non-overt efforts' to personnel who aren't yet familiar with these entities means the same ideologies are applied.
 
