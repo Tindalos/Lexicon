@@ -1,6 +1,6 @@
 # **Examples**
 
-### Recurring tropes in mass media:
+### **Recurring tropes in mass media:**
 
 [[Perf█rmance|Show]][[Earth|down]] 
 
@@ -20,10 +20,10 @@ Routinely misusing [[Tiam█t|"qu█stion m█rk"]] instead of 'qu█stion'
 
 "[[NoAnti|f█ke n█ws]]" (referring to what the one using the term, not the one being accused of it, is doing; announces a [[dece█t]] or fraud against others.  The w█y to phrase that legitimately instead would've been to describe it as an "[[NoAnti|untruth]]".)
 
+"Situation [[Rot█tion|unf█lding]]"
 
 
-
-### Recurring tropes in 'troother' prop█gandists:
+### **Recurring tropes in 'troother' prop█gandists:**
 
 W█king up ([[Dre█m]] with an 'inversion')
 

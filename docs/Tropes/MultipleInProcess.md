@@ -1,5 +1,11 @@
 ---
 aliases: [multiple efforts-in-process]
 ---
-# Multiple 'Efforts-in-Process' symbols together
+# **Multiple 'Efforts-in-Process' symbols together**
 
+
+We know the Babylonian Kabbalists use [[docs/Symbols/In-Process/index|'efforts-in-process']] symbols to establish a distinction between what's currently the manifest case, and what they intend to implement instead.  What happens when they use multiples of them together?  An overt equivalent would be instead of saying, *'I'm doing this'*, to say, *'I'm planning to do this'*, or here rather, *'I'm planning to plan to do this.'*  The trope is used to pre-announce and pre-coordinate directives with the rank-and-file personnel before they're quite required to act on them; to give them some advance notice, and to spread the directives to those more *'in the know'* or even just those who are paying more attention.  This appears to have nothing to do with the capability of [[TelepathsPropheciers|the telepaths and propheciers]] to retroactively engineer agendas.  I suppose they would need no advance notice, given the ability to 'see ahead' regardless of what is said either overtly or non-overtly.
+
+We know from the Babylonian Kabbalists' [[NoAnti|'No Anti-']] trope that the organization makes and interprets statements as expressions of someones' will or intentions.  In that more abstract sense it's essentially a meaningless or trivial distinction how many 'efforts-in-process' symbols are used in a phrase; intent is intent regardless.  All the 'efforts-in-process' functionally do is reference [[trav█l|"how f█r away"]] the present situation is from accomplishment of their desired objective.
+
+I've also encountered occasions in which the apostate system appear to have tried to use this trope as a means of convincing external 'resistance' personnel or groups that they were successfully managing to sab█tage the organization by setting up delays and obstr█ctions to their plans, or perhaps to profess disloyalty among apostate system personnel to their perceived authority figure.  Having not been among either of them and thus not privy to their efforts, I have no means of ascertaining whether or not that presentation was successfully convincing to them.  I do know that logistically it would have caused no interference within the apostate system, because as stated the trope is still used as a statement of will and intent.
