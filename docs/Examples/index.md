@@ -22,6 +22,7 @@ Routinely misusing [[Tiam█t|"qu█stion m█rk"]] instead of 'qu█stion'
 
 
 
+
 ### Recurring tropes in 'troother' prop█gandists:
 
 W█king up ([[Dre█m]] with an 'inversion')
