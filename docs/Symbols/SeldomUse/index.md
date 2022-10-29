@@ -1,2 +1,2 @@
-# Seldom Use
+# **Seldom Use**
 

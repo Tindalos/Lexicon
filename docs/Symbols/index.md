@@ -1,2 +1,2 @@
-# Symbols
+# **Symbols**
 
