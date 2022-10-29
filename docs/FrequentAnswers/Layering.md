@@ -1,4 +1,4 @@
-# How 'layering' works
+# **How 'layering' works**
 
 The apostate system doesn't present as one consolidated parent group, at least not yet while it hasn't fully integrated all personnel involved and there is still capacity for public resistance.  As such the 'parent' group uses multiple 'child' franchises as intermediaries and, at need, expendable patsies.  Franchises are generally purpose-built to contend with some resistance or likely resistance, and when that purpose has been served the franchise's time is up.  The most loyal and useful members are systematically alerted to the symbolism used by the 'parent' group immediately above it, and the franchise is exposed, publicly vilified or otherwise disc█rded.
 

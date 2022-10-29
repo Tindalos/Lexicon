@@ -1,4 +1,4 @@
-# Frequent Answers
+# **Frequent Answers**
 
 - ###  [Why I redact](Redaction.md)
 

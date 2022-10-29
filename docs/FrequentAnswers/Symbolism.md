@@ -1,4 +1,4 @@
-# How symbolism works
+# **How symbolism works**
 
 Symbolism is essentially just substituting one concept for another, and then presenting the substitution in a context which seems normal, ordinary and inconspicuous.
 

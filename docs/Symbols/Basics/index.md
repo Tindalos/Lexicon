@@ -1,4 +1,4 @@
-# Basic symbols
+# **Basic symbols**
 
 This section is for those 'just starting out', and contains symbols which are either the 'base' symbols from which most of the other symbols are derived, or they're just so 'common-use' that readers will encounter them frequently.
 

@@ -1,4 +1,4 @@
-# Counter-Divine Will symbols
+# **Counter-Divine Will symbols**
 
 Whatever an apostate system franchise offers whether it's downlow s█x, dr█gs, insider tr█ding and the like, once it has spread its non-overt social n█twork widely enough and recruited successfully enough to establish sufficient influence, it will generally implement the next ph█se of its activities: shifting its more senior personnel onto a counter-Divine Will basis.
 

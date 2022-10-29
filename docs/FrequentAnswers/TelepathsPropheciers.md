@@ -1,4 +1,4 @@
-# About the Telepaths and Propheciers
+# **About the Telepaths and Propheciers**
 
 In this basic org chart,
 ![](../img/ApostateOrgChart.png)

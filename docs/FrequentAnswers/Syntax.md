@@ -1,4 +1,5 @@
-# Lexicon syntax
+# **Lexicon syntax**
+
 With the apostate system adding their own multiple definitions to ordinary words and terms, a system is needed for re-establishing in which sense we mean them.  Here's Mine.
 
 `█`

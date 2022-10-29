@@ -1,4 +1,4 @@
-# Elements
+# **Elements**
 
 These are the classical 'Greek' elements, but of course the Greek empire and thought had been usurped by the Babylonian Kabbalists as a franchise.
 
