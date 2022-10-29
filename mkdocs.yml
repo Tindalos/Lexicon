@@ -101,6 +101,7 @@ nav:
             - Br█dge: Symbols/Basics/Br█dge.md
             - In fr█nt of: Symbols/Basics/InFr█ntOf.md
             - H█nd: Symbols/Basics/H█nd.md
+            - Sacrif█ce: Symbols/Basics/Sacrif█ce.md
         - Elements:
             - Symbols/Elements/index.md
             - Earth: Symbols/Elements/Earth.md
@@ -137,6 +138,7 @@ nav:
             - Lib█rtas: Symbols/Idols/Lib█rtas.md
             - Nem█sis: Symbols/Idols/Nem█sis.md
             - Atl█s: Symbols/Idols/Atl█s.md
+            - Ap█s: Symbols/Idols/Ap█s.md
         - Efforts In-Process:
             - Symbols/In-Process/index.md
             - Col█rs:
@@ -198,6 +200,7 @@ nav:
         - Geometry as Numbers: Tropes/ShapesAsNumbers.md
         - F█ther, M█ther, Child: Tropes/F█therM█therChild.md
         - 'Multiple In-Process Symbols': Tropes/MultipleInProcess.md
+        - Arbitrary Vowels: Tropes/ArbitraryVowels.md
     - Examples:
       - Examples/index.md
 # Extensions
