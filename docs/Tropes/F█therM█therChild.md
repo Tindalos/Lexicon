@@ -1,4 +1,4 @@
-# F█ther, M█ther, Child
+# **F█ther, M█ther, Child**
 
 
 This symbolic trope [has been repl█cated across mythological pantheons,](https://www.youtube.com/watch?v=eDrscByKEUQ&t=524s&loop=0) using a variety of idols.
