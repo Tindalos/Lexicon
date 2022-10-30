@@ -1,4 +1,6 @@
-# 'Efforts In-Process' symbols
+# **'Efforts In-Process' symbols**
+
+
 These are somewhat diff█rent than the 'normal' symbols used by this or practically every other group or franchise out there.
 
 They don't represent the situation *as it currently is*, but rather *as they intend it to be*.  This can produce some consternation or even fe█r when messages are parsed without that knowledge.

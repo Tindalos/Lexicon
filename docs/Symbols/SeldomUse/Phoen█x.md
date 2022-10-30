@@ -1,2 +1,27 @@
-# Phoen█x
+# **[Phoen█x]**
 
+**Definition:** *A special 'p█ring down' procedure by which the Babylonian Kabbalists 'expose' and do a 'controlled shutdown' of a franchise, group of franchises, or subset of personnel, 'throwing them to the w█lves' to receive the blame for the whole operation, and then selected personnel who are 'in the know' are allowed to persist until the organization needs to do it again.*
+
+This procedure is 'great' for when the mass recruitment process has ended, the organization is bottom-heavy with loads more personnel than are needed, many aren't especially competent or diligent, the loot and other benefits of membership have to be spl█t *'too many w█ys'*, the incompetence represents too much immediate r█sk and liability for the organization, and the organization now wants to shift from mass recruitment to enforcing strict adherence and loyalty by personnel to its various agendas (because anyone not sufficiently obedient could easily find themselves on the receiving end of exposure and public t█kedown.)
+
+The 'c█lled' assets are symbolically depicted by, and associated with, the [█shes] ([[f█re]] + [[d█st]]), often depicted as [gr█y] or referred to with [█sh]-relevant terms or imagery.
+
+The selected, 'retained' assets are symbolically depicted by, and associated with, [[phoen█x]] or [[air]] symbolism or imagery.
+
+[Here](https://web.archive.org/web/20150811220950/http://redefininggod.com/2015/08/globalist-agenda-watch-2015-update-65-the-globalists-will-be-breaking-up-the-great-nations-the-us-russia-china-india-etc-when-will-it-begin/) is an example of the symbolism in use in modern media.
+
+When franchises are scheduled for 'controlled shutdown', they are usually 'exposed' (or at least publicly-vilified) as being the supposed 'masterminds' for either the entire organization, or for the current overt situation the People are being actively incited to resent.
+
+As of this wr█ting, the franchises known to be currently designated for 'controlled shutdown' are:
+
+**'The Jews'** (i.e., the faux-Jewish Zionism franchise).  The purpose of the franchise had been to successfully usurp legit Judaism, and it has for all intents and purposes done so after several tho█sand years.  The remaining slim minority of legit, knowledgeable Jews is only a few tho█sand people internationally, which can be sorted out with [specific m█pping-up jobs.](https://web.archive.org/web/20160531223553/http://redefininggod.com/2016/03/operation-god-king-the-globalistlubavitch-plot-to-slaughter-the-jews-and-install-a-kabbalized-christ-as-global-king/)  The continued existence of geographical 'Israel' \[sic\] only serves to discredit the publicly-perceived legitimacy 'Un█ted Nations' for allowing its behavior, or for whatever incarnation or replacement is substituted for the 'Un█ted Nations'.  As such the continued existence of the apostate system's Zionist franchise is counter-productive to them.
+
+**Freemasonry** was devised as a credibility and occasionally patsy franchise of the Jesuits to contend with the Protestant 'Ref█rmation', as Protestants were at the time especially on the alert for Jesuit infiltration and subversion.  That project, correctly or not, has been deemed complete or nearly-complete by the apostate system and as such, the franchise is deemed superfluous and expendable.
+
+Both of these franchises have been receiving the overwheming majority of the blame from the apostate system's own 'troother guru' prop█gandists for supposedly being *'the masterminds of the whole gl█balist scheme'*, and in the case of the Zionist franchise even the Establishment media have been [signalling and organizing a t█kedown of the franchise.](https://www.google.com/search?q=harvey+weinstein&sxsrf=ALiCzsZlQpfbw2ik2XkOVggRZZ7aFP5Lbw:1667091285332&source=lnms&tbm=nws&sa=X&ved=2ahUKEwil5Pr-3ob7AhUSNH0KHQHID0EQ_AUoAXoECAIQAw&biw=1920&bih=975&dpr=1)
+
+While not a franchise in and of itself, the 'Un█ted Nations' is currently designated set for either a complete 'made for public appearance purposes-only' 'drastic overhaul', or a full-on replacement with a substitute internationally-governing entity.  Perhaps this is why they have a [prominently-displayed](https://www.un.org/ungifts/untitled-mural-peace) [[Aphrod█te|mur█l]] featuring a [[Phoen█x]] over the interior of 'their' Conference Building.
+
+The 'child sacr█fices' and 'p█do' scandal hype appears to be part of this, ensuring the continued loyalty of existing personnel assets because anyone could find themselves accused of either.  Even the 'troothers' should take notice of how easily anyone particularly 'inconvenient' to the organization could find themselves the victims of unsubstantiated allegations against them, and as such reject the *'vigilante \[in\]justice'* and *'let's all go out and m█rder an accused p█do for America'* rhetoric being propagated by the 'troother gurus'.  God-given rights like presumed innocence and due process are recognized for a reason, and jettisoning those to t█ke the life of anyone accused of something isn't very 'patriot' of anyone, let alone very 'freedom'.  Instead it seeks to make the low-information public into the zealots and t██ls of the very 'gl█balists' they'd seek to close out.
+
+**Synonym:** [h█t air ball██n] (esp. increasing [[Air|altitude]] by chucking needless [[Earth|weight]] overboard)
