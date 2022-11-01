@@ -1,4 +1,4 @@
-# **Idols**
+# Idols
 
 The apostate system uses idols and their respective cults to spread and proliferate throughout foreign societies, amassing broad non-overtly organized social n█tworks.  These activities remain as relevant in our era as they did in ancient times, despite the lack of appearance of overtly-active cults, idols, temples and so on.  To understand why this is and how this process works, we'll need to start with understanding the ancient version of the scheme to catch onto the modern permutation variant.
 

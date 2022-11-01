@@ -1,2 +1,2 @@
-# **[Inversion mode]**
+# [Inversion mode]
 

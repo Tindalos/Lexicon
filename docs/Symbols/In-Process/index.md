@@ -1,4 +1,4 @@
-# **'Efforts In-Process' symbols**
+# 'Efforts In-Process' symbols
 
 
 These are somewhat diff█rent than the 'normal' symbols used by this or practically every other group or franchise out there.

@@ -1,4 +1,4 @@
-# **Examples**
+# Examples
 
 ### **Recurring tropes in mass media:**
 

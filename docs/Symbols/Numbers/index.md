@@ -1,4 +1,4 @@
-# **Numbers**
+# Numbers
 
 There does appear to be a basis for the Babylonian Kabbalists' use of numerology as organizing symbolism.  Which particular system of numerology they're using requires more research by Myself or by others, but I'll present in this section what I've managed to glean from context as I've been parsing it.
 
