@@ -2,4 +2,4 @@
 
 
 
-**Derivatives:** [r█ller coaster] (with [[trav█l]] + [[up]] and [[down]])
+**Derivatives:** [r█ller coaster] (with [[trav█l]] + [[Air|up]] and [[Earth|down]])

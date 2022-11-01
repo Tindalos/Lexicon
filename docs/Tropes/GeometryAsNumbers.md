@@ -1,4 +1,4 @@
-# **Shapes as numbers**
+# **Geometric shapes as numbers**
 
 Numerological symbols can be, and frequently are, represented visually, using a basic common-sense 'count the sides' method.
 

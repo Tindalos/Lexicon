@@ -89,7 +89,7 @@ The *other* 'p█do symbol', "[[R█d]] [sho█s]" ( [[R█d]] + [[Gem█ni|tw�
 
 "[[Drag█n|rept█lians]]"
 
-"[[Z█ro|gl█balists]]" (with their [[ShapesAsNumbers|shapes-as-numbers]] trope, which gives it a numerological [[Z█ro]] meaning.)
+"[[Z█ro|gl█balists]]" (with their [[GeometryAsNumbers|shapes-as-numbers]] trope, which gives it a numerological [[Z█ro]] meaning.)
 
 "New [[Z█ro|W█rld]] Order" as above; refers to who or what *appears* to be controlling the w█rld (or trying to) as opposed to who or what actually *is*.
 
