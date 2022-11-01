@@ -1,6 +1,6 @@
 # **[Em█tion]**
 
-**Derivatives:** [f██l]
+**Derivatives:** [f██l], [p█rty]
 
 [H█ppy] (with [[sm█le]])
 

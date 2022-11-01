@@ -1,2 +1,2 @@
-# Do█ble Tr█angle
+# **[Do█ble Tr█angle]**
 
