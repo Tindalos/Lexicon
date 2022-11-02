@@ -1,3 +1,3 @@
 # **[Obel█sk]**
 
-**Derivatives:** [tr██], [pill█r]
+**Derivatives:** [tr██], [pill█r], ['pol█rized']

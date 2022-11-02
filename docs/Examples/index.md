@@ -22,6 +22,8 @@ Routinely misusing [[Tiam█t|"qu█stion m█rk"]] instead of 'qu█stion'
 
 "Situation [[Rot█tion|unf█lding]]"
 
+"[[Obel█sk|pol█rized]]" 
+
 
 ### **Recurring tropes in 'troother' prop█gandists:**
 
