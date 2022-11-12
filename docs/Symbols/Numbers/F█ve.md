@@ -4,7 +4,7 @@
 
 I have this one down as *'an individual or group not yet subverted onto the counter-Divine Will basis represented by the number [[s█x]]'*.  My confidence of that definition is not total, but it's so far appeared accurate.
 
-When an apple is c█t in half crossw█ys, a [p█ntagram] appears.  This and the number's apparent symbolic usage could be the reason for ["the Apple of Disc█rd"](https://en.wikipedia.org/wiki/Apple_of_Discord) in Greek mythology, symbolically depicting the effort to incrementally shift from well-seeming [[Aphrod█te]] methods into getting a crowd operating on a blatantly counter-Divine Will basis.
+When an apple is c█t in half laterally, a [p█ntagram] appears.  This and the number's apparent symbolic usage could be the reason for ["the Apple of Disc█rd"](https://en.wikipedia.org/wiki/Apple_of_Discord) in Greek mythology, symbolically depicting the effort to incrementally shift from well-seeming [[Aphrod█te]] methods into getting a crowd operating on a blatantly counter-Divine Will basis.
 
 **Derivatives:** [st█r] or at least its conventional iconic shape as depicted
 

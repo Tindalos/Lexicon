@@ -1,3 +1,9 @@
-# **[P█n]**
+# **[P█n](https://en.wikipedia.org/wiki/Pan_(god)**
 
+**Definition:** *Refers to the strategy of being a ['frenemy'](https://en.wikipedia.org/wiki/Frenemy), gaining confidence as a friend only to b█tray someone*
 
+Part man, part [go█t] (which is a counter-Divine Will symbol), his lower go█t parts were equipped with a phenomenally-sized male endowment.  He'd gain your trust as a friend and guide, accompany you out into the d█rk for█st, and then when you were alone with him would take carnal advantage of you.  Thus, symbolically gaining your acceptance of a counter-Divine Will basis via the [[Pen█tration|pen█tration]] symbol, to your very great discomfort and chagrin.
+
+His symbolic visual depictions [feature a trope](https://www.youtube.com/watch?v=eDrscByKEUQ&t=27m7s]) of presenting him in his 'nice'-seeming version, but somewhere associated or nearby also presenting him in his 'naughty' version too.  This appears to be consistent with their non-overt applications as I've encountered them; personnel implementing this strategy will intersperse their 'friendly' presentments with seemingly non-sensical but very pronounced instances of 'mean' presentments for no apparent reason and with no apparent motivation.  They'll then usually seek to 'offset' the latter by presenting various 'perks' and ['l█ve-b█mbs'](https://en.wikipedia.org/wiki/Love_bombing).  If the recipient makes their best effort to forgive the ab█ser, to recognize their True Nature despite their behavior and accept them regardless, they are evidently deemed to have accepted a counter-Divine Will, counter-True Nature basis from the ab█ser and additionally, to have done so merely because they're motivated by obtaining the various 'perks' and benefits presented by them.  The organization appears to interpret their position as having no more respectability than is traditionally afforded a literal prost█tute, and precisely the same reason.
+
+**Derivatives:** [p█n p█pe], [go█t], [p█nic], [p█ndemic], *the prefix* [p█n-] *generally, the modern slang expression, 'How do ya like me now?'*
