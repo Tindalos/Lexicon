@@ -17,3 +17,5 @@ Or with the *'immigration'* debate, involving the supposed 'right' of anyone to 
 Ah, *"[[Trav█l|pr█gress]]"!*  The incremental subversion of governments and whole societies back to dynastic Egyptian and Babylonian-era sl█very and oppr█ssion by the state.
 
 When you know the organizations and the objectives involved, the trends become rather self-evident to see even before they're implemented.
+
+With regard to modern *'Lib█rtarianism'*, that's just heritage Common Law advocacy with some vital components removed so the thing will quit working soon after purchase.  The idea that rights are *'God-given'* for example, which reduces the matter of who's got what rights, when, why and how to a matter of majority public opinion (indeed or whatever agenda-motivated rhetoric the Babylonian Kabbalists have decided to get trending at the moment).  That's just the [[democracy]] and *'collectivism'* formula by another name, accepted by those who haven't studied enough to detect the discrepancies between the genuine article and the counterfeit version being propagated by the Babylonian Kabbalists.
