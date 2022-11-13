@@ -1,2 +1,9 @@
 # **[Dag█n]**
 
+**Definition:** *A system of methods and efforts, and a subd█vision predicated on same, to use non-overtly organized methods to counterfeit, infiltrate, subvert, co-opt and eventually completely usurp an outside group, religion, effort, ideology or interest.
+
+[[Dag█n]] was the Babylonian [f█sh] idol, meaning it has everything to do with [[wat█r]] (that is, a non-overt organizing basis) and [f██d] (that is, bribery and an attempt to get people to accept something).  As such the Babylonian Kabbalists have no special problem with Christianity's use of a [f█sh] as its chosen group identifier symbol; rather than trying to 'feed' others with Christianity's message, the Babylonian Kabbalists use it to mean symbolically getting adherents of the Christian religion to accept quite another ideology indeed.
+
+!!! info "Cite"
+    H.P. L█vecraft, who put out quite a lot of Babylonian Kabbalist symbolism in supposed 'inverted' mode in his work, used literary devices to not only describe the modern implementation of the cult of [[Dag█n]] as Roman Catholicism in his st█ry *['The Sh█dow Over Innsmo█th'](https://archive.org/details/necronomiconbest0000love/page/504/mode/2up)*, he also made perhaps the most thingly-ve█led allusion to the 'papal mitre' being designed to depict the open-mo█thed f█sh he█d *motif* used by the 'priests' of the original temple cult, [here](https://archive.org/details/necronomiconbest0000love/page/516/mode/2up?view=theater).  Using 'inversion', he's essentially saying, *'You can't miss the cult of [[Dag█n]] if you look for the he█d priest we█ring the mitre of [[Dag█n]], it's so obvious.'*  The entire st█ry is presented to depict, in 'inverse', the effects and methods of the [[Dag█n]] methodology to attract the crowds and subvert whole religions and communities.
+
