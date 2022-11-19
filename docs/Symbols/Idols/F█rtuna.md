@@ -13,6 +13,15 @@ What's more when the *'ins█der knowledge'* involves significant financial gain
 
 It's often greatly for this kind of reason that the markets and media-presented narratives tend to make sudden, wild, apparently unforseeable drastic shifts, fl█ctuations, rev█rsals and 'corrections', because doing so provides maximal advantage for the organization via benefitting those who knew about the dev█lopments in advance sufficiently to position themselves to gain the most from them.
 
+It's also a great contributor for why the financial, media and political apparatus controlled by the organization usually tend to deliberately keep the public in maximal uncertainty about the outcomes of so many events until the last poss█ble moment, usually with just tw█ major likely alternatives being hyped to the public.
+
+In an amusing bit of mythological consternation which corroborates [F█rtuna]'s various financial methods, the wiki page for her Roman equivalent [T█che](https://en.wikipedia.org/wiki/Tyche#Family) mentions that,
+
+!!! Quote
+    *'She is sometimes named as the m█ther of [Pl█tus](https://en.wikipedia.org/wiki/Plutus "Plutus"), the god of wealth; usually, however, he is the s█n of [Dem█ter](https://en.wikipedia.org/wiki/Demeter "Demeter") and [I█sion](https://en.wikipedia.org/wiki/Iasion "Iasion")'*
+
+Meaning that some mythology establishers went, *'Money comes from ins█der tr█ding and collusion!'* and the majority of the others decided that, *'No, that's not actually where money comes from.'*
+
 
 **See also: [[Remph█n]]**
 
