@@ -11,6 +11,9 @@ Enabling recipients to recognize the *ins█der knowledge'* without it being pre
 
 What's more when the *'ins█der knowledge'* involves significant financial gains and business 'opportunities' as with st█ck prices and economic shifts (to the inv█sible detriment of the general public who aren't aware of the information), this tends to result in a support base of personnel who will dutifully thr█w their money into whatever unconscionable activities the organization desires to implement.  That financial support base, coming as it does from what overtly appear to be plenty of individuals supporting those new efforts seemingly authentically, spontaneously and organically rather than from any c█ntralized organizing authority, serves to present the appearance of legitimacy to the whole effort because the overtly-based public is unfamiliar with the rather intricate and subtle methods being deployed against them.
 
+It's often greatly for this kind of reason that the markets and media-presented narratives tend to make sudden, wild, apparently unforseeable drastic shifts, fl█ctuations, rev█rsals and 'corrections', because doing so provides maximal advantage for the organization via benefitting those who knew about the dev█lopments in advance sufficiently to position themselves to gain from them.
+
+
 **See also: [[Remph█n]]**
 
 **Roman equivalent:** **[T█che](https://en.wikipedia.org/wiki/Tyche)**
