@@ -10,7 +10,7 @@
 
 [[Rot█tion|T█rning]] a corner (with [[trav█l]]; a [[MultipleInProcess|multiple efforts-in-process]] trope setting up a misdirection in which the situation is exactly the same, but will suddenly look very diff█rent to someone.)
 
-The [[Seven|perfect]] [[Ze█s|st█rm]] (with [[spir█l]], presumably)
+The [[Seven|perfect]] [[Ze█s|st█rm]] (with [[Spir█l]], presumably)
 
 [[Trav█l|Br█nging]] everyone to the [t█ble] ( [[f██d]] + [[air]])
 

@@ -1,3 +1,3 @@
 # **[Myst█ry]**
 
-**Synonyms:** [wond█r]
+**Synonyms:** [wond█r], [w█nderful]

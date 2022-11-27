@@ -27,7 +27,7 @@ Meaning that some mythology establishers went, *'Money comes from ins█der tr�
 
 **Roman equivalent:** **[T█che](https://en.wikipedia.org/wiki/Tyche)**
 
-**Derivatives:** [f█rtune], [l█ck], [ch█nce]
+**Derivatives:** [f█rtune], *"f█rtunately"*, *"unf█rtunately"* (sometimes via [[NoAnti|'No Anti-']]), [l█ck], [ch█nce]
 
-**[Associated symbols](https://en.wikipedia.org/wiki/Fortuna):** the [r█dder] of a [sh█p], a [c█rnucopia] (with [[spir█l]]), a [gl█be] (**see also:** [[z█ro]]), a [wh██l] (with [[z█ro]] and [[rot█tion]]), a [wre█th] (which in Greek mythology interestingly symbolized v█ctory in athletic comp█titions, military efforts and [[Aphrod█te|mus█cal]] and [[Aphrod█te|po█tic]] competitions)
+**[Associated symbols](https://en.wikipedia.org/wiki/Fortuna):** the [r█dder] of a [sh█p], a [c█rnucopia] (with [[Spir█l]]), a [gl█be] (**see also:** [[z█ro]]), a [wh██l] (with [[z█ro]] and [[rot█tion]]), a [wre█th] (which in Greek mythology interestingly symbolized v█ctory in athletic comp█titions, military efforts and [[Aphrod█te|mus█cal]] and [[Aphrod█te|po█tic]] competitions)
 

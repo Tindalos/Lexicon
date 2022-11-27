@@ -13,4 +13,4 @@ As in, *'Having established that personnel are thoroughly loyal and committed to
 Also because much of the organizational methodology for contending against 'resistance' efforts has been to strategically incite them to adopt a hypocritical (and thus dysfunctional) basis so as to neutralize the prevalent acceptance of their position.  That is, to get them to *'de-legitimatize'* themselves, usually in the pursu█t of their own agendas and objectives.
 
 
-**Derivatives:** [b██f] (with all [me█t] as a derivative), [le█ther], [m█lk], [ch██se], more recently [legend█ry] (from [da█ry]), [c█ckoo], [peac█ck]
+**Derivatives:** [b██f] (with all [me█t] as a derivative), [le█ther], [m█lk], [ch██se], more recently [legend█ry] (from [da█ry]), [Ind█a] and [Ind█nesia] (where [c█ws] are regarded as sacred), [c█ckoo], [peac█ck]
