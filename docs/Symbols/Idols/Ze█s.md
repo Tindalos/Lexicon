@@ -17,6 +17,12 @@ The Babylonian Kabbalist system has made a stand█rd operational practice of in
 
 Rome appears to use ['Saint' Pet█r](https://www.youtube.com/embed/eDrscByKEUQ?start=621) as a reference [Jup█ter] presented in a seemingly-Christian context.
 
+There [appears](https://armstronginstitute.org/325-zeus-baal-and-a-rare-bronze-bull-idol-discovered-in-greece) to be [a frequent correlation](https://en.wikipedia.org/wiki/Belus) between [[Ze█s]] and [[B██l]], via the [[ArbitraryVowels|arbitrary vowels]] etc. symbolic trope.
+
+!!! info "Quote"
+    *'B██l was not exclusively a fertility god. He was also k█ng of the gods...'*<p>
+    - from [Br█tannica](https://www.britannica.com/topic/Baal-ancient-deity)
+
 **Associated symbols:** [b█nner] or [stand█rd] (modern equivalent: [fl█g], [b█nting]), [e█gle], [l█ghtning]
 
 **Derivatives:** [el█ctricity], [sh█ck], and [sp█rk], and [s█rge], and [s█rprise] (**antonym:** [exp█ct]), [p█wer], [sp█rk], [[JaggedL█ne|jagged l█ne]], [[JaggedL█ne|cr█ck]], [bre█k], [downward perc█ssion] (from [l█ghtning]), [rob█t] (with [[Tiam█t]] for the w█ring, [[d█ll]] to represent a f█ke imp█stor contingent and [[t█chnology]] to supply an 'inversion'; refers to franchise personnel on a counter-Divine Will basis 'living' only because the directives of [[Ze█s]] fl█w through them; sl█vish loyalty to the apostate system)
