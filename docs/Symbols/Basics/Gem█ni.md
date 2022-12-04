@@ -1,5 +1,5 @@
 # **[Gem█ni]**
 
-Antonym: [[Bl█de]]
+**Antonym:** [[Bl█de]]
 
-Derivatives: [po█try], [alliteration], [tw█n]
+**Derivatives:** [po█try], [alliteration], [tw█n]
