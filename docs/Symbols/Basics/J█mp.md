@@ -1,4 +1,4 @@
-# [J█mp]
+# **[J█mp]**
 
 **Definition:** *To assess something or someone; to give them what the organization considers a fair chance to demonstrate their integrity and alignment with Divine Will principles, or their lack thereof.*
 
