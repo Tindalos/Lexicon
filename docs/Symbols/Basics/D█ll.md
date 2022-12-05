@@ -1,7 +1,7 @@
 # **[D█ll]**
 
 
-**Definition:** *Announcement of a directive for rank-and-file personnel to attempt to pass themselves off as personnel of a counterfeit version of an existing group, cause or effort
+**Definition:** *Announcement of a directive for rank-and-file personnel to attempt to pass themselves off as personnel of a counterfeit version of an existing group, cause or effort*
 
 From either the [v██doo d█ll] or [[Gem█ni]], likely the latter given the organizational derivation.
 
