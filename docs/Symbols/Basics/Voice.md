@@ -1,6 +1,6 @@
 # **[Voice]**
 
-**Definition:** *To temporarily promote a specific po█nt of view, usually a disproportionate public representation of an ideology or agenda which could be fair and reasonable, or could be unfair and unreasonable.  Said promotion is done only for strategic purposes and only done for so long as it continues to serve those; the organization has no special 'buy-in' to the various causes or ideologies being promoted
+**Definition:** *To temporarily promote a specific po█nt of view, usually a disproportionate public representation of an ideology or agenda which could be fair and reasonable, or could be unfair and unreasonable.  Said promotion is done only for strategic purposes and only done for so long as it continues to serve those; the organization has no special 'buy-in' to the various causes or ideologies being promoted*
 
 A rather obvious application of the [[Air]] symbol.
 
