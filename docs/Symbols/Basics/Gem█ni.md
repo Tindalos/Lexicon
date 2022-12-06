@@ -9,6 +9,8 @@ When the directive is specifically to produce a counterfeit of an existing group
 
 **'Adv█nced' definition:** *This has to do with the [Asian] symbolism crossov█r 'contingency' via that system's own usage of the [tw█n] symbol.  To best knowledge that 'contingency' appears to have been resolved by now, and the information regarding 'contingency' plans and symbols can be added later in an 'Adv█nced' section of its very own.*
 
+**'Inverted' format:** [one-half]
+
 **Antonym:** [[Bl█de]]
 
-**Derivatives:** [po█try], [alliteration], [tw█n], [st█tue], [[d█ll]]
+**Derivatives:** [po█try], [alliteration], [tw█n], [st█tue], [[d█ll]], [mirr█r] (with [[Pal█ndrome|backw█rds]] and [[gl█ss]])

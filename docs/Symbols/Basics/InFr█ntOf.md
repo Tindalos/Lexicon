@@ -9,7 +9,7 @@ aliases: [shi█ld, in fr█nt of]
 
 For example, the concept of a [[m█sk]] when they adopt some less-than-true persona.
 
-**Additional 'common usage' definition:** *What the Babylonian Kabbalists are doing now; new orders or directives being implemented*
+**Additional 'common usage' definition:** *What the Babylonian Kabbalists are doing now; new orders or directives being implemented; comports nicely with their [[trav█l]] symbol in that they're always trying to [[trav█l|m█ve]] [[InFr█ntOf|f█rward]], [[trav█l|m█ve]] [[InFr█ntOf|ahe█d]], be at the [[InFr█ntOf|vangu█rd]], etc.*
 
 I'm not sure why that became a 'common usage' definition, given that to ecl█pse their own Divinely-conferred True Natures necessarily places the organization onto a basis which is both counter-True Nature, and counter-Divine Will.  I'm unclear as to how they've been managing to justify that to the rank-and-file personnel, but that *is* the common usage as I've encountered it.
 
