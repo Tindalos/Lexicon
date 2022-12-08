@@ -7,7 +7,7 @@ Start with an [[obel█sk]], a [[Stra█ghtL█ne|stra█ght l█ne]] po█nting
 
 For the Minoans, the Minota█r was (mythologically) at its cent█r.  *'Mino'* just references the locale so we're left with *'ta█r'*, and the symbol of a [b█ll].  The astr█logical [Ta█rus]?  [Apparently yes:](https://en.wikipedia.org/wiki/Minotaur#Etymology)  *'In Crete, the Minota█r was known by the name [Ast█rion](https://en.wikipedia.org/wiki/Asterion "Asterion")'* and *['one of the monster's names was Ast█rion or Ast█rius ('st█r')'](https://en.wikipedia.org/wiki/Minotaur#Interpretations)*.
 
-We also read that, *'\[a\]ccording to A.B. Cook, _Minos_ and _Minota█r_ were different f█rms of the same personage, representing the s█n-god of the Cretans, who depicted the s█n as a b█ll.'*
+We also read that, *'\[a\]ccording to A.B. Cook, _Minos_ and _Minota█r_ were diff█rent f█rms of the same personage, representing the s█n-god of the Cretans, who depicted the s█n as a b█ll.'*
 
 As regards [Ta█rus](https://en.wikipedia.org/wiki/Taurus_(astrology)#History), we see that, *'The sign of Ta█rus is associated with several myths and b█ll worship from several ancient cultures. It was the first sign of the zodiac established among the Mesopotamians, who called it "The Great B█ll of Heaven," as it was the constellation through which the S█n rose on the vernal equin█x at that time...'*
 
