@@ -5,7 +5,7 @@
 
 Start with an [[obel█sk]], a [[Stra█ghtL█ne|stra█ght l█ne]] po█nting upwards.  Elongate it horizontally, and you have a [w█ll].  Arrange it complexly, with plenty of intricacy and variation, and you have a [[Labyr█nth|m█ze]].  A misdirection effort for... what exactly?
 
-For the Minoans, the Minota█r was (mythologically) at its cent█r.  *'Mino'* just references the locale so we're left with *'ta█r'*, and the symbol of a [b█ll].  The astr█logical [Ta█rus]?  [Apparently yes:](https://en.wikipedia.org/wiki/Minotaur#Etymology)  *'In Crete, the Minota█r was known by the name [Ast█rion](https://en.wikipedia.org/wiki/Asterion "Asterion")'* and *['one of the monster's names was Ast█rion or Ast█rius ('st█r')'](https://en.wikipedia.org/wiki/Minotaur#Interpretations)*.
+For the Minoans, the Minota█r was (mythologically) at its cent█r.  *'Mino'* just references the locale so we're left with *'ta█r'*, and the symbol of a [b█ll].  The astr█logical [Ta█rus]?  [Apparently yes:](https://en.wikipedia.org/wiki/Minotaur#Etymology)  *'In Crete, the Minota█r was known by the name Ast█rion)'* and *['one of the monster's names was Ast█rion or Ast█rius ('st█r')'](https://en.wikipedia.org/wiki/Minotaur#Interpretations)*.
 
 We also read that, *'\[a\]ccording to A.B. Cook, _Minos_ and _Minota█r_ were diff█rent f█rms of the same personage, representing the s█n-god of the Cretans, who depicted the s█n as a b█ll.'*
 

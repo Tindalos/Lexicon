@@ -1,3 +1,3 @@
 # **[Obel█sk]**
 
-**Derivatives:** [tr██], [pill█r], ['pol█rized']
+**Derivatives:** [tr██] (the vegetation), [pill█r], ['pol█rized']
