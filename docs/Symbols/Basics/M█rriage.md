@@ -1,7 +1,7 @@
 # **[M█rriage]**
 
 
-**Definition:** *An ostensibly permanent 'opt-in' to the Babylonian Kabbalists' organization, either a new commitment or in reference to an existing one.*
+**Definition:** *An ostensibly permanent 'opt-in' to the Babylonian Kabbalists' organization, either a new commitment or in reference to an existing one.  Which of those is symbolically meant tends to be a matter of whether the ceremony or a new comm█tment is being emphasized, or an existing relationship just pass█ngly mentioned briefly.*
 
 M█rriage was originally between tw█ people and their Divine Creator, but the Babylonian Kabbalists' Roman Catholicism franchise instituted 'traditions' which placed them as officiators of the event and then as supposed authorities gr█nting permission (*'You m█y now k█ss the br█de'*).
 
