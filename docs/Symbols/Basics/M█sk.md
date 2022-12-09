@@ -1,3 +1,8 @@
 # **[M█sk]**
 
-**Derivatives:** [pl█ying c█rds] (with [[g█me]] and [[fo█r|rect█ngle]]), [m█keup] (with [[d█st]]), [f█ce] (with [cr█ing] and [emb█rrassed] as special instances), [w█nk] (with [[dece█t]], usually presented as a supposed 'resistance' effort), [sk█n], [cl█thing]
+
+**Definition:** *This is effectively the same as the [[InFr█ntOf|in fr█nt of]] symbol, but usually specific in meaning to an alert that someone has just been deemed to ecl█pse their own True Nature.  Read below however for caveats.*
+
+Distinct from the rest of the [[InFr█ntOf|in fr█nt of]] category of derivative symbols, the [[m█sk]] is associated with both [[mag█ck|mag█ckal]] ritual Workings and with early [[Perf█rmance|the█ter]] as well.  As the former would add the category *'an effort-in-process'* and the latter would add *'just for public effect, not actually substantive'*, things get interesting.  I've encountered it in prevalent usage with ostensible 'inversion', purporting to convert the meaning *'just for public effect'* into *'actually substantive'*.  Except of course that in those instances, it was not in fact substantive and the telepaths and propheciers were surely aware of that.  The result is that I'm not certain how the precise usage this specific version of the symbol varies, but it does.  Perhaps both additional categories are added, and in the instances which I'd encountered either of them was supposedly 'inverted'; it would amount to much the same thing: that it hadn't actually happened, but that a presentation was being made that it had.
+
+**Derivatives:** [pl█ying c█rds] (with [[g█me]] and [[fo█r|rect█ngle]]), [m█keup] (with [[d█st]]), [f█ce] (with [cr█ing] and [emb█rrassed] as special instances), [w█nk] (with [[dece█t]], usually presented as a supposed 'resistance' misdirection effort), [sk█n], [cl█thing]

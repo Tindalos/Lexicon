@@ -13,4 +13,4 @@ Curiously the *'until [[de█th]] you do p█rt'* stipulation appears to be in p
 
 This also appears to be an instance of the [[ArbitraryVowels|'arbitrary vowels']] symbolic trope.  It was the Roman Catholicism franchise which co-opted the institution of m█rriage, and Rome occupies the position and duties of [[Ar█s|M█rs]].  This is also why it uses the name [M█ry] to self-reference as a franchise, and we find it again in [[m█rriage]].  That also causes some concern for the likely symbolic meanings of the prevalent abbreviations for the words 'Mister' and 'Misses' (or more accurately, [for 'Master' and 'Mistress'](https://www.britannica.com/story/why-is-there-an-r-in-mrs)).
 
-
+Notice the prominent usage of the symbolically-relevant [[z█ro|r█ngs]] in the ceremony, the placement of which in Babylonian Kabbalist reckoning comes as a bit of rather naughty [[Earth|male]]+[[Wat█r|f█male]] quasi-Freudian symbolism relevant to [[Isht█r]] and indeed to symbolic [[pen█tration]].  That is, it s█gnifies 'opting into' a counter-Divine Will basis, supposedly permanently.
