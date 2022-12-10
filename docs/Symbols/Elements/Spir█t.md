@@ -1,6 +1,6 @@
 # **[Spir█t]**
 
-**Common-usage definition:** *What the apostate system are genuinely seeking to accomplish, despite appearances.*  Frequently used with 'inversion' symbols, where it would 'invert' to *'purely for public effect; substanceless'* as in [[z█ro]]
+**Common-usage definition:** *What the apostate system are genuinely seeking to accomplish, despite appearances.*  Frequently used with *'inversion'* symbols, where it would 'invert' to *'purely for public effect; substanceless'* as in [[z█ro]]
 
 **Metaphysical definition:** The actual, Divine Will-derived nature of a situation or thing.  Alternatively:
 
