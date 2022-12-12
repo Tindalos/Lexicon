@@ -1,5 +1,6 @@
 # **[F██l]**
 
+
 **Definition:** *Used at the early-st█ge commencement of some new agenda depending upon need.*
 
 Let's start with a [j█ke], as the Babylonian Kabbalists so frequently do.
