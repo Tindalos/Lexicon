@@ -4,6 +4,7 @@ Aliases: [pen█trate, pen█tration, p█netrate, p█netration]
 
 # **[Pen█tration]**
 
+
 **Definition:** *Accepting the supposed authority of the apostate system and a counter-Divine Will basis, or being deemed under the authority of the apostate system* ***for reason of*** *having accepted a counter-Divine Will basis*
 
 This comes as a derivative symbol of their [[Isht█r]] for reason of the concept of [pen█tration] necessarily involving a [male] symbol being placed into a [f█male] symbol.  In this case the [f█male] symbolism is of course sometimes *created* by the act of [pen█trating].  Whether pre-existant or caused by it, the result is a [[Z█ro|h█le]] which involves a counter-Divine Will-predicated [[z█ro]] symbol.  And when counter-Divine Will symbols are used, the apostate system at least implies through context and usage a supposed 'inversion'.  Here, it supposedly 'inverts' the substanceless [[z█ro]], which is usually *'just for sh█w'*, into connoting *'in actual fact'* or *'the truth of the matter, despite appearances'*.

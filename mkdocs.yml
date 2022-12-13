@@ -1,5 +1,6 @@
 site_name: The Lexicon Project
 site_url: https://github.com/tindalos/Lexicon/docs
+site_description: Lexicon of Babylonian Kabbalist organizing symbolism
 
 # repo_url: https://github.com/Tindalos/Lexicon
 # repo_name: Lexicon
@@ -237,6 +238,7 @@ plugins:
   - search
   - roamlinks 
   - mermaid2
+#  - rss
 
 extra:
   generator: false

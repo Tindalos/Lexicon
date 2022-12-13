@@ -1,5 +1,6 @@
 # [Corporations]
 
+
 I'm not entirely sure *why* this one (corporate names, logos, br█nds and so on) is used as synonymous with the other counter-Divine Will position declaration symbols, but that's been consistently how the symbolic grammar in context has been time and again.
 
 Best guess is some use of them as a derivative symbol of [[f█re]] elemental symbolism + [[InFr█ntOf|in fr█nt of]] symbol via the term "br█nd", which would seem to make the reference to counter-Divine Will symbols either almost entirely unavoidable in practical terms, or unreasonably prohibit anyone who isn't on a counter-Divine Will basis from even mentioning corporation or product names, even to expose wrongdoing or to hold them accountable.  That's an injustice and seems like quite a bit of needless overre█ch.
