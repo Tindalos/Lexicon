@@ -1,3 +1,11 @@
 # [Fec█s]
 
+
+Repugnant, foul, unworthy, not valuable, best gotten rid of.  The associations we have with this substance correlate well with the counter-Divine Will basis on which it's symbolically used.  Of course those Choosing a counter-Divine Will basis tend to disregard those connotations and merely regard it symbolically, applying *'inversion'* to the concept because they're actively seeking the gains provided by the organization for being on such a basis.
+
+Through derivative symbolism we also get [post█rior] and from it, [cha█r] which are also used.  The royal [thr█ne] is one special application of this concept: it appears to represent overt command and supreme earthly authority, but is both a counter-Divine Will representational symbol and even overtly rather *déclassé* and disrespectful a set of imagery to impose upon ostensibly-respected public figures who are at least presented as being *superior to the common man.*  Regarding him as being just as mundanely human as any of us rather tends to disrupt the ill█sion, which is part of the idea: authority limited, and rather easily, due to his counter-Divine Will basis.  Pomp which can be revoked at any time.
+
+**Special usage:**  There is another special *'use case'* we must address with the derivatives of this symbol, that of the [empty cha█r].  Readers will recall that the Babylonian Kabbalists purport to use counter-Divine Will symbols as ostensible *'inversion'* symbols, on the implied basis that, *'We would never actually* ***ourselves*** *adopt a counter-Divine Will basis, not at all'*, manifest organizational results to the contrary.  So when they deploy the symbolism of an [empty cha█r] the common usage is to supposedly *'invert'* the concept of *'empty'* to *'occupied'* and symbolically reference someone as having accepted a counter-Divine Will basis.  Its antonym would ostensibly be an [occupied cha█r].  It all of course presupposes the acceptance of using counter-Divine Will symbolism as an acceptable custom, and that its meaning can merely be *'inverted'* with no problems.  It also requires that the message's translators keep well aware of what supposed *'inversion'* mode of symbolism is being deployed, in order to get an accurate translation.
+
+
 **Derivatives:** [post█rior], [cha█r], [thr█ne]
