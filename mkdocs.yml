@@ -3,12 +3,13 @@ site_url: https://github.com/tindalos/Lexicon/docs
 site_description: Lexicon of Babylonian Kabbalist organizing symbolism
 copyright: <font size="+1"><a href="http://DivineWillAssembly.com">Return to <b>Divine Will Assembly</b></a></font>
 
-# repo_url: https://github.com/Tindalos/Lexicon
-# repo_name: Lexicon
-# edit_uri: docs/
+#repo_url: https://github.com/Tindalos/Lexicon
+#repo_name: Lexicon
+#edit_uri: docs/
 
        
 theme:
+#    name: 'bootstrap386'
     name: 'material'
     palette:
 
