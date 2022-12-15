@@ -6,4 +6,4 @@ Technically refers to both overt and to non-overt basis, or with supposed 'inver
 
 More customarily used to reference [[Symbols/Modes/Cha█s/index|'Cha█s mode']] symbolism.
 
-**Derivatives:** [cem█nt] and [concr█te]
+**Derivatives:** [cem█nt] and [concr█te], [porr█dge], [cust█rd] etc. (with [[f██d]])

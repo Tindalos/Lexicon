@@ -242,8 +242,9 @@ plugins:
   - mermaid2
 # Uncomment below to enable RSS
   - rss:
-       abstract_chars_count: 0
+       abstract_chars_count: 1
        image: http://lexicon.divinewillassembly.com/img/avatar.png
+       pretty_print: true
 
 extra:
   generator: false
