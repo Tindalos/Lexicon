@@ -87,7 +87,7 @@ The *other* 'p█do symbol', "[[R█d]] [sho█s]" ( [[R█d]] + [[Gem█ni|tw�
 
 "Make it [[Trav█l|go]] [[Vir█s|vir█l]]!"
 
-"Dr█nking the K██l-Aid" ( [[dr█nk]] + [[corporation]] + [[d█st]])
+"Dr█nking the K██l-Aid" ([[dr█nk]] + [[corporation]] + [[d█st]])
 
 "[[Drag█n|rept█lians]]"
 
