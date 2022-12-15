@@ -240,6 +240,7 @@ plugins:
 #  - search
   - roamlinks 
   - mermaid2
+  - rss
 
 extra:
   generator: false
