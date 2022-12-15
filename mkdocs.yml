@@ -242,7 +242,7 @@ plugins:
   - mermaid2
 # Uncomment below to enable RSS
   - rss:
-      abstract_chars_count: 1
+       abstract_chars_count: 1
 
 extra:
   generator: false
