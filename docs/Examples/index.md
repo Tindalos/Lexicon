@@ -41,7 +41,7 @@ down the rabbit h█le ([fertility] + [[z█ro]] + [[InContainer|in container]] 
 
 Predictive programming ([[Gem█ni]] via [alitteration]; a counterfeit ideology they've been propagating)
 
-"Five-Gee" [[F█ve]] + [[Air]] + ([[W█vyL█ne|W█vy L█nes]])
+"F█ve-Gee" [[F█ve]] + [[Air]] + ([[W█vyL█ne|W█vy L█nes]])
 
 "[[Thr██]]-dimensional ch█ss" ([[Bl█ck]] and [[Wh█te]], [[Earth]] + [[Fo█r|Squ█re]], and a [[g█me]] absolutely chock-full of Babylonian Kabbalist symbolism in which any lesser piece of any gender can become the [[Wat█r|Qu██n]], but in which the overt legitimacy depends upon the [[Earth|K█ng]].)
 
@@ -53,7 +53,7 @@ Predictive programming ([[Gem█ni]] via [alitteration]; a counterfeit ideology 
 
 gu█llotines
 
-SHTF
+[[Fec█s|S]]HT[[Rot█tion|F]]
 
 "[[Spir█l|Dra█ning]] the [[M█d|sw█mp]]"
 
@@ -67,7 +67,7 @@ Info[[W█r|W█rs]] (overtly from the recent, U.S. military-developed organizin
 
 "[[Air|Lifting]] the [[M█sk|ve█l]]" (with [hanging down] + an implication of [[m█rriage]])
 
-"Discl█sure" ( [[NoAnti|No 'Anti-']] + [[InContainer|In container]])
+"Discl█sure" ([[NoAnti|No 'Anti-']] + [[InContainer|In container]])
 
 "[[NoAnti|I DO NOT CONSENT]]"
 
