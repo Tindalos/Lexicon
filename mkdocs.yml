@@ -33,8 +33,9 @@ theme:
     icon:
       admonition:
         info: material/cloud-alert
-#    favicon: img/book.png
-#    logo: img/book.png
+
+    favicon: img/blank.ico
+    logo: img/blank.svg
 
     features:
       - navigation.instant
