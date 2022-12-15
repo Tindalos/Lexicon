@@ -240,7 +240,8 @@ plugins:
 #  - search
   - roamlinks 
   - mermaid2
-#  - rss
+# Uncomment below to enable RSS
+  - rss
 
 extra:
   generator: false
