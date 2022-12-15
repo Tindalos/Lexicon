@@ -9,7 +9,6 @@ copyright: <font size="+1"><a href="http://DivineWillAssembly.com">Return to <b>
 
        
 theme:
-#    name: 'bootstrap386'
     name: 'material'
     palette:
 
@@ -30,7 +29,7 @@ theme:
       toggle:
         icon: material/toggle-switch
         name: Switch to light mode
-        
+      
     icon:
       admonition:
         info: material/cloud-alert
@@ -244,10 +243,12 @@ plugins:
 extra:
   generator: false
 
-
+extra_css:
+   - stylesheets/extra.css
+    
 extra_javascript:
   - javascripts/mathjax.js
   - https://polyfill.io/v3/polyfill.min.js?features=es6
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
   - https://unpkg.com/mermaid/dist/mermaid.min.js 
-#test
+
