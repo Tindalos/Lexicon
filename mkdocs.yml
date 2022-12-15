@@ -1,5 +1,5 @@
 site_name: The Lexicon Project
-site_url: https://github.com/tindalos/Lexicon/docs
+site_url: https://lexicon.divinewillassembly.com/
 site_description: Lexicon of Babylonian Kabbalist organizing symbolism
 copyright: <font size="+1"><a href="http://DivineWillAssembly.com">Return to <b>Divine Will Assembly</b></a></font>
 
@@ -242,7 +242,7 @@ plugins:
   - mermaid2
 # Uncomment below to enable RSS
   - rss:
-      abstract_chars_count: 0
+      abstract_chars_count: 1
 
 extra:
   generator: false
