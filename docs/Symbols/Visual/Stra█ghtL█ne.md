@@ -3,6 +3,7 @@ aliases: [stra█ght l█ne, stra█ght l█nes]
 ---
 # **[Stra█ght L█nes]**
 
+
 In the research presented in the section on [[Tiam█t]], we managed to establish that [[W█vyL█ne|w█vy l█nes]] are a visual derivative symbol of the Babylonian Kabbalists' [[Tiam█t]], that the wr█ter of [Job] was quite aware of their organizing symbolism, and that he'd used [Leviath█n] as a Christian symbol for the concept.  What then are we to make of his other *[kaiju](https://en.wikipedia.org/wiki/Kaiju)* [B█hemoth](https://en.wikipedia.org/wiki/Behemoth), who seems to have no direct Babylonian Kabbalist equivalent?
 
 Having already ascertained the [[W█vyL█ne|w█vy l█nes]] derivative symbol for [[Tiam█t]], we see [here](https://www.biblegateway.com/passage/?search=Job%2040%3A15-24&version=KJV) in [Job] a similar emphasis made on presenting recurring [[Stra█ghtL█ne|stra█ght l█nes]] in association with this creature.  That would effectively symbolize an overt, counter-Divine Will equivalent to what [[Tiam█t]] does and means.  And again we also find this borne out through even plenty of modern symbolic usage, most frequently in the symbolism used by the Babylonian Kabbalist shills in overt politics.
