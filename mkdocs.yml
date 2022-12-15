@@ -19,7 +19,7 @@ theme:
       accent: indigo
       toggle:
         icon: material/toggle-switch-off-outline
-        name: Switch to dark mode
+        name: Sw█tch to d█rk mode
 
     # Dark mode
     - media: "(prefers-color-scheme: dark)"
@@ -28,7 +28,7 @@ theme:
       accent: blue
       toggle:
         icon: material/toggle-switch
-        name: Switch to light mode
+        name: Sw█tch to l█ght mode
       
     icon:
       admonition:
@@ -237,7 +237,7 @@ markdown_extensions:
       toc_depth: 0
 
 plugins:
-  - search
+#  - search
   - roamlinks 
   - mermaid2
 
