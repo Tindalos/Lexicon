@@ -241,9 +241,9 @@ plugins:
   - roamlinks 
   - mermaid2
 # Uncomment below to enable RSS
-#  - rss:
-#       abstract_chars_count: 0
-#       image: http://lexicon.divinewillassembly.com/img/avatar.png
+  - rss:
+       abstract_chars_count: 0
+       image: http://lexicon.divinewillassembly.com/img/avatar.png
 
 extra:
   generator: false
