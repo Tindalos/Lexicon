@@ -241,8 +241,8 @@ plugins:
   - roamlinks 
   - mermaid2
 # Uncomment below to enable RSS
-  - rss
-         abstract_chars_count: 0
+  - rss:
+      abstract_chars_count: 0
 
 extra:
   generator: false
