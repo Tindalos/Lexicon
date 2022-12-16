@@ -79,9 +79,9 @@ The *other* 'p█do symbol', "[[R█d]] [sho█s]" ( [[R█d]] + [[Gem█ni|tw�
 
 "[[Ze█s|k█yboard]] [[W█r|w█rriors]]"  (with the purported symbolic 'inversion' being that the term conventionally refers to people who talk a lot on the intern█t but won't actually do jack in terms of upholding it with action; appears to be a snub of their own 'patriot troother' audience)
 
-"[[F██d|t█ble]]-[[Rot█tion|fl█pping]]" ( [[F██d]] + [[Air]] + [[rot█tion]])
+"[[F██d|t█ble]]-[[Rot█tion|fl█pping]]" ([[F██d]] + [[Air]] + [[rot█tion]])
 
-"Th█y Live" ( [[Perf█rmance|F█lm]] + S█ngl█sses ( [[M█sk]] + [[Gl█ss]] + [[D█rkness]]) + [[Life]] 'inverted')
+"Th█y Live" ([[Perf█rmance|F█lm]] + S█ngl█sses ( [[M█sk]] + [[Gl█ss]] + [[D█rkness]]) + [[Life]] 'inverted')
 
 "[[g█me]]-[[Ch█nge|ch█nger]]"
 
@@ -98,4 +98,9 @@ The *other* 'p█do symbol', "[[R█d]] [sho█s]" ( [[R█d]] + [[Gem█ni|tw�
 "[[Stra█ghtL█ne|conn█ct]] the d█ts" (an overt 'effort in process' to do something; in this case to get people to form new mental associations between concepts, being done from a counter-Divine Will basis)
 
 "You are the [[Bl█ck|carb█n]] they want to reduce" (dutifully organizing who the supposed public 'villains' are)
+
+*"[[F██d|Eat]] ze [[ins█cts|b█gs]]"*  ([\[meme\]](https://www.google.com/search?q=eat+ze+bugs+meme&source=lnms&tbm=isch), [\[parodies\]](https://knowyourmeme.com/memes/i-will-not-eat-the-bugs), ***all*** of which helped trend and propagate the organizing symbolism)
+
+
+
 
