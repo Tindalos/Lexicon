@@ -1,2 +1,12 @@
 # [Cha█s]
 
+
+*'[Cha█s] mode'* is deployed just like *'inverted mode'*, and when used infrequently is also used as a symbolic *'tell'* that an *'inversion mode'* is in use.
+
+There is a rather important distinction, however.  Unlike ordinary *'inversion mode'*, *'[cha█s] mode'* references a particular *kind* of *'inversion mode'* for a specific and very special reason: it appears to reference awareness that the organization is undergoing some kind of major internal transition of top human authority figure, or some other major upheaval.
+
+Despite the modern overt definition for the word, as a symbolic reference it hearkens back to [the primordial Cha█s of Greco-Roman mythology](https://en.wikipedia.org/wiki/Chaos_(cosmogony)).  It was when Creation was still in its undiff█rentiated state, a mass jumble of everything without order imposed to establish distinct entities; effectively a lump of cl█y unformed into anything because there was no Will yet present to establish order upon it.  The Babylonian creation myth [posits a similar primordial state](https://www.worldhistory.org/article/225/enuma-elish---the-babylonian-epic-of-creation---fu/), with the first *'gods'* being [Aps█] and [[Tiam█t]] who then generated others.  However of concern is [the model presented by Gnosticism](https://en.wikipedia.org/wiki/Chaos_(cosmogony)#Gnosticism), of which the Babylonian Kabbalists have demonstrated quite a fondness, insisting that primordial cha█s was *not* the first thing to exist, from which all else derives.  Rather it maintains that [l█ght] was, that when it appeared it necessarily also created [[d█rkness|sh█dow]], and that from it all that exists including their version of the Divine Creator and [the Demiurge](https://en.wikipedia.org/wiki/Demiurge#Gnosticism), the primary antagonist to the Divine Creator.  That, and the absence of certainly about what in truth the organization uses the symbol [L█ght] to depict (either Divine Will-aligned Truth, or alternatively a counter-Divine Will basis merely *presenting as though it were*) leaves us with much cause for concern.  If symbolically Gnosticism presents us with a placeholder for Divine Will and a placeholder for its primary antagonist, and claims that *both* were produced by the Divine Will's *actual* antagonist, then it categorically becomes an ideology to fling away with great force.  Its apparent lack of clarity on the matter alone is sufficient to reject it until clarity has been firmly established; the vital fundamentals are prerequisites and hardly optional.
+
+
+
+

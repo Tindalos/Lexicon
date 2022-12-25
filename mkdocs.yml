@@ -69,6 +69,7 @@ nav:
             - Pen█tration: Symbols/cdw/Pen█tration.md
             - Ins█cts: Symbols/cdw/Ins█cts.md
             - C█ts: Symbols/cdw/C█ts.md
+            - Backw█rds: Symbols/cdw/Backw█rds.md
         - Basics:
             - Symbols/Basics/index.md
             - Beli█f: Symbols/Basics/Beli█f.md
@@ -134,7 +135,7 @@ nav:
             - H█ra: Symbols/Idols/H█ra.md
             - Isht█r: Symbols/Idols/Isht█r.md
             - Is█s: Symbols/Idols/Is█s.md
-            - J█no: Symbols/Idols/J█no.md
+#            - J█no: Symbols/Idols/J█no.md
             - J█nus: Symbols/Idols/J█nus.md
             - Lib█rtas: Symbols/Idols/Lib█rtas.md
             - Mol█ch: Symbols/Idols/Mol█ch.md
@@ -211,6 +212,8 @@ nav:
         - Arbitrary Vowels: Tropes/ArbitraryVowels.md
     - Examples:
       - Examples/index.md
+
+
 # Extensions
 markdown_extensions:
 #  - abbr

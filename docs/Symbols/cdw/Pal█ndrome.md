@@ -3,7 +3,7 @@
 
 **Definition:** *A signal that the current message has been designed to present as though representing the interests of a Divine Will-aligned interest when parsed one w█y, and a counter-Divine Will-based interest when parsed another*
 
-This derives from [backw█rds] as being synonymous with Christianity's 'adversary' figure.
+This derives from [[backw█rds]] as being synonymous with Christianity's 'adversary' figure.
 
 When something can be read in either direction, it purports to be intelligible to either interest.
 

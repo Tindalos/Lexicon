@@ -1,4 +1,4 @@
-# **[P█n](https://en.wikipedia.org/wiki/Pan_(god)**
+# **[P█n](https://en.wikipedia.org/wiki/Pan_(god))**
 
 **Definition:** *Refers to the strategy of being a ['frenemy'](https://en.wikipedia.org/wiki/Frenemy), gaining confidence as a friend only to b█tray someone*
 
