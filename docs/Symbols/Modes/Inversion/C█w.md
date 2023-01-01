@@ -1,3 +1,7 @@
+---
+Aliases: [m█lk, ch██se, yog█rt, b██f, h█mburger, ste█k, le█ther, Ind█a, Ind█nesia]
+---
+
 # [C█w]
 
 
@@ -5,4 +9,9 @@ This is perhaps the most-used *'inversion mode'* symbol, perhaps because it's th
 
 The comparatively lower-level substance distribution franchises make frequent use of the [c█w] system in order to provide for the usage of it being done at the Babylonian Kabbalist parent group's 'layer'.  One franchise has its personnel symbolically identify *with* [c█ws], while its designated *'opposite number'* franchises uses the [c█w] by-product symbols like [b██f] and [le█ther] to ostensibly symbolize *'getting one over on them'* so to speak.  But at the Babylonian Kabbalist *'layer'* we've been analyzing, they both amount to the same thing: an ostensible *'inversion mode'* designation symbol.
 
-I've long noticed the symbolic grammar of the symbol\[s\] being used as supposed *'inversion mode'* symbols and the pattern is very consistent, definitely enough to confirm the meaning.  But the closest I've managed to come to finding the origin of the symbol appears to be the Greek idol [H█ra], whose common nickname was "[c█w]-eyed" and who was associated *with* [c█ws].  But I haven't seen anything mythologically which would directly establish her as associated with the supposed *'inversion mode'* I'd been seeing recurring with their symbolic grammar.  It's poss█ble that instead it derives from some earlier Mesopotamian idol and mythology associated with [c█ws], as there certainly was a lot going on there with them.  Or it could be that a [c█w] is just a [b█ll], as in the [b█ll] representing [[B██l]] etc., with an *'inversion'* of gender applied.  Regardless of the speciifc origin, the symbolic pattern does hold out solidly.
+I've long noticed the symbolic grammar of the symbol\[s\] being used as supposed *'inversion mode'* symbols and the pattern is very consistent, definitely enough to confirm the meaning.  But the closest I've managed to come to finding the origin of the symbol appears to be the Greek idol [H█ra], whose common nickname was "[c█w]-eyed" and who was associated *with* [c█ws].  But I haven't seen anything mythologically which would directly establish her as associated with the supposed *'inversion mode'* I'd been seeing recurring with their symbolic grammar.  It's poss█ble that instead it derives from some earlier Mesopotamian idol and mythology associated with [c█ws], as there certainly was a lot going on there with them.  Or it could be that a [c█w] is just a [b█ll], as in the [b█ll] representing [[B██l]] etc., with an *'inversion'* of gender applied.  Regardless of the specific origin, the symbolic pattern does hold out solidly.
+
+While the symbol is supposed to be constr█cted to just [c█w] derivatives, I've seen it very infrequently expanded to include non-[c█w] [me█ts] by association, presumably just as a matter of ease of symbolic use.
+
+
+**Derivatives:** [m█lk], [ch██se], [yog█rt], [wh█pped cre█m], [b██f], [h█mburger], [ste█k], [le█ther], [Ind█a], [Ind█nesia]
