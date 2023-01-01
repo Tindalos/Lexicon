@@ -8,4 +8,4 @@ The parent group's symbolism is in use by all the rest of them, with their own s
 
 The organizing symbolism of those franchises can be addressed later in other Lexicons, but the parent group's is the most important and thus the most urgent priority
 
-![](../img/ApostateOrgChart.png)
+![](/img/ApostateOrgChart.png)
