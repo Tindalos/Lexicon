@@ -1,6 +1,6 @@
 # **[H█ra]**
 
-**Definition:** *An ostensible 'inverted mode' symbolism indicator*
+**Definition:** *An ostensible 'inverted mode' symbolism indicator*.  Many derivatives
 
 I'd been encountering this usage pattern, mostly from the more experienced personnel such as those in Brit█sh media, and those contingents which relied more intensely on learning and using the intricacies and subtleties of the symbolic language such as the organized crime franchise.  Wasn't quite sure what to make of it until I noticed that it appeared to stipulate an 'inverted mode' of their symbolism, and wasn't sure why that was until I encountered the idol [H█ra].
 

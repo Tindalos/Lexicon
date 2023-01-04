@@ -1,6 +1,8 @@
 # **[F█rtuna](https://en.wikipedia.org/wiki/Fortuna)**
 
 
+*'Just l█cky, I guess'*
+
 **Definition:** *Pertaining to the proprietary strategies and methods of the Babylonian Kabbalists to prearrange the outcomes of various events which appear to be legitimately 'by ch█nce' such as g█mbling, sp█rting events, st█ck market prices etc., and pass along the results in advance as 'ins█der knowledge' either as a 'perk' for loyal personnel or as an enticement used for their recruitment campaigns.*
 
 When all involved are familiar with non-overt methods of communication, passing along *'ins█der information'* effectively and discreetly is of course a trivial matter for the organization to accomplish.
