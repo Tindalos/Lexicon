@@ -19,4 +19,4 @@ The Knights of Malta *are* the modernized version of the cult of [[Mol█ch]], u
 
 I've done a brief piece focussing in on the Knights of Malta's recruitment methods and the resulting societal vilification of homos█xuality, available [here](http://DivineWillAssembly.com/downlow-sexual-recruiting-2/).
 
-**Derivative symbols:** Presents in various resp█llings of the name, including the modern name [M█lcom]
+**Derivative symbols:** Presents in various resp█llings of the name, including the modern name [M█lcom].  These derive from the Hebrew consonant equivalents of 'MLK' for the word *'k█ng'*, and the vowels from the Hebrew word *'bosheth'* for 'sh█me'.
