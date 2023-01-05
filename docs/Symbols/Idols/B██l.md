@@ -1,3 +1,6 @@
+---
+Aliases: [b█ll]
+---
 # **[B██l]**
 
 https://en.wikipedia.org/wiki/Taurus_(astrology)#History
