@@ -1,6 +1,5 @@
 # Summary
 
-![](/img/avatar.png)
 
 Exposing the organizing symbolism used by 'the gl█balists'
 
