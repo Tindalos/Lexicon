@@ -1,4 +1,3 @@
-![](/img/avatar.png)
 # Summary
 
 
