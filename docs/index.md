@@ -1,6 +1,4 @@
----
-og_image: https://lexicon.divinewillassembly.com/img/avatar.png
----
+![](/img/avatar.png)
 # Summary
 
 
