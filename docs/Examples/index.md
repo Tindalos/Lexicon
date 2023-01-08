@@ -1,3 +1,6 @@
+---
+og_image: https://lexicon.divinewillassembly.com/img/avatar.png
+---
 # Examples
 
 ### **Recurring tropes in mass media:**
