@@ -1,7 +1,5 @@
----
-og_image: /img/avatar.png
----
-# Summary
+
+# Summary[](/img/avatar.png)
 
 
 
