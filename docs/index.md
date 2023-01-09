@@ -1,5 +1,4 @@
-
-<meta property="og:image" content="https://lexicon.divinewillassembly.com/img/avatar.png" />
+![](/img/avatar.png)
 
 # Summary
 
