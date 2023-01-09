@@ -1,4 +1,8 @@
+---
+og_image: /img/avatar.png
+---
 # Summary
+
 
 
 Exposing the organizing symbolism used by 'the gl█balists'

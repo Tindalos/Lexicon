@@ -10,6 +10,7 @@ copyright: <font size="+1"><a href="http://DivineWillAssembly.com">Return to <b>
        
 theme:
     name: 'material'
+ #   custom_dir: overrides
     palette:
 
     # Light mode
