@@ -1,6 +1,8 @@
 
+<meta property="og:image" content="https://lexicon.divinewillassembly.com/img/avatar.png" />
+
 # Summary
-[](/img/avatar.png)
+
 
 Exposing the organizing symbolism used by 'the gl█balists'
 
