@@ -1,6 +1,3 @@
-
-<link rel="img_src" href="/img/avatar.png" />
-
 # Examples
 
 ### **Recurring tropes in mass media:**
