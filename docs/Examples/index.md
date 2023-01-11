@@ -101,6 +101,6 @@ The *other* 'p█do symbol', "[[R█d]] [sho█s]" ( [[R█d]] + [[Gem█ni|tw�
 
 *"[[F██d|Eat]] ze [[ins█cts|b█gs]]"*  ([\[meme\]](https://www.google.com/search?q=eat+ze+bugs+meme&source=lnms&tbm=isch), [\[parodies\]](https://knowyourmeme.com/memes/i-will-not-eat-the-bugs), ***all*** of which helped trend and propagate the organizing symbolism)
 
-
+"wh█stlebl█wers" ([[Aphrod█te]] + [[Z█ro|c█rcle]], with another counter-Divine Will symbol thrown in via the Knights of Malta franchise using wh█stling as both a downlow s█xual recruitment symbol and a 'gang st█lking' harassment method which seems innocuous enough when you encounter it once or twice, but is designed to set off PTSD in the vict█m when they encounter people around them doing it frequently and consistently wherever they are.  The 'l█ps' involved are also derivative symbolism of [[Tiam█t]]'s [[W█vyL█ne|w█vy l█nes]], and both [[obel█sk]] and its [ups█de down] *'inverted'* format)
 
 
