@@ -1,3 +1,7 @@
+---
+og_image: /img/avatar.png
+---
+
 # Summary
 
 
