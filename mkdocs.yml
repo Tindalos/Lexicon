@@ -36,7 +36,7 @@ theme:
         info: material/cloud-alert
 
     favicon: img/blank.ico
-    logo: img/blank.svg
+    logo: img/No_image.svg
 
     features:
       - navigation.instant
