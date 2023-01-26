@@ -10,4 +10,4 @@ Through derivative symbolism we also get [post█rior] and from it, [cha█r] wh
 I suppose we must also, regrettably, consider the symbolic implications of the trending phrase, *"B█llsh█t"*.  Elsewhere we've established that symbolically the [b█ll] is [Ta█rus] is the idol [[B██l]] to the Babylonian Kabbalists, and we've now seen how the sec█nd part of this compound word is symbolically used.  Together, it appears to reference efforts to get someone to accept a counter-Divine Will basis, a sort of *'inversion'* of the [[f██d]] symbol.
 
 
-**Derivatives:** [post█rior], [cha█r], [thr█ne]
+**Derivatives:** [post█rior], [cha█r], [thr█ne], [fert█lizer] (and particularly [fert█lizer]-derived [[Expl█sion|expl█sives]]), int█stinal g█s (with [[Air]]), etc.

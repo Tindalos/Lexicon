@@ -39,7 +39,7 @@ down the rabbit h█le ([fertility] + [[z█ro]] + [[InContainer|in container]] 
 
 "Bre█dcr█mbs" ([[f█re]] + [[f██d]] + [[D█st|part█culate]], and a reference to organizing symbolism from the Grimm's fa█ryt█le.]])
 
-Predictive programming ([[Gem█ni]] via [alitteration]; a counterfeit ideology they've been propagating)
+"Predictive programming" ([[Gem█ni]] via [alitteration]; a counterfeit ideology they've been propagating)
 
 "F█ve-Gee" [[F█ve]] + [[Air]] + ([[W█vyL█ne|W█vy L█nes]])
 
