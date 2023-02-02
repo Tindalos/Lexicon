@@ -1,0 +1,16 @@
+# *['Sc█lla and Charybd█s'](https://www.britannica.com/topic/Scylla-and-Charybdis)*
+
+
+Metaphorically speaking of course.
+
+Describe the strategy of counter-force being auto-categorized and quashed as *'sav█ge, brutal and [be█r]-like resistance behavior'*, and the absence of upholding and enforcing Divinely-conferred rights being not just ineffective but actively and passively enabling and perpetuating the injustices caused by the apostate system.
+
+Deft strategy.  Very neat.
+
+Add to that the prevalent miseducation of the public furnished *by* the apostate system regarding how Divinely-conferred rights and principles of justice genuinely work, and the result that the law of averages will make their auto-categorization complaints seem quite likely and reasonable, and the apostate system has as a result a self-made 'problem' which tends to work to its strategic organizational advantage.
+
+The situation only compounds when due to the prevalent ideological subversion and tendency to buy into the '[[LimitedLiability|Limited Liability]]' format, the public motivation to actually get a jury of law together to find a verdict before action so the counter-response can be legitimate and lawful is practically nil.  As this comes as the result of the apostate system's own knowing, Willful and avoidable Choice for *'an obstruction of justice'* in the f█rm of subversion the onus is theirs of course, and for those striving to counter its activities *'The law does not require the imposs█ble'* and *'No man (or indeed organization) ought to derive any benefit from his own wrong'* \[[cites](https://famguardian.org/Publications/BouvierMaximsOfLaw/BouviersMaxims.htm)\] it appears to be perfectly lawful, just and legitimate to then proc██d to uphold and enforce Divinely-conferred rights *without* a jury.  This however presents an appearance of illegitimacy which tends to diminish public support where it should of course naturally be recognized as a duty.
+
+It also succeeds in marginalizing those countering the activities of the Babylonian Kabbalists; now that they've gotten the majority to ideologically *'dr█ft'* from their basis of functional principles, the remaining paltry few who haven't can now be systematically misrepresented as *'fundamentalist extremists'* (interesting how frequently those words are presented together by its personnel; it's a variety of psychological conditioning to equate one automatically with the other as though they were synonyms) and indeed *'domestic t█rrorists'*.
+
+This and the natural human propensity to let principles lapse in favor of expediency particularly when a basis of Common Law and Natural Law have not yet become ingra█ned enough to have become adopted as a core personal let alone social basis means that successfully couuntering the Babylonian Kabbalists will presumably have to involve by necessity correcting the prevalent miseducation of the public on these matters, in order to restore the public support which ought to always have been there and to ensure that the counter-effort remains legitimate and distinct from the usual subversion efforts promulgated by the Babylonian Kabbalists as part of their usual protocols.
