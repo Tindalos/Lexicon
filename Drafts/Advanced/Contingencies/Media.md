@@ -5,4 +5,4 @@
 
 *'Groundhog D█y'*
 
-*'Port█;'* (with item breakdown)
+*'Port█l'* (with item breakdown)

@@ -17,6 +17,6 @@ Associated with the plan█t [Ven█s], itself representing a non-overtly organi
 
 
 
-**Major derivatives:** [█rt], [mus█c], [bea█ty], [d█lphin]
+**Major derivatives:** [█rt], [mus█c], [bea█ty], [d█lphin], [sw█n]
 
 Various other symbolic derivatives; see [here](https://en.wikipedia.org/wiki/Aphrodite)
