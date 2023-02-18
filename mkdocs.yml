@@ -219,6 +219,9 @@ nav:
         - Sc█lla and Charybd█s: StrategyGuide/Sc█llaCharybd█s.md
         - Limited Liability: StrategyGuide/LimitedLiability.md
         - H█roes and Villains: StrategyGuide/H█roesVillains.md
+    - Trends:
+       - Trends/index.md
+       - Shift Back to the Right: Trends/ShiftRight.md
     - Examples:
       - Examples/index.md
 
