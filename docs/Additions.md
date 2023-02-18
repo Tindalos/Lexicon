@@ -1,6 +1,10 @@
 # Additions
 
 
-Symbols added since publication:
+Added since publication:
 
-**[[Disability]]**
+**[[docs/Trends/index|Trends]]** section
+
+**[[docs/StrategyGuide/index|Strategy Guide]]** section
+
+**[[Disability]]** symbol
