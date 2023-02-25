@@ -219,10 +219,10 @@ nav:
         - Sc█lla and Charybd█s: StrategyGuide/Sc█llaCharybd█s.md
         - Limited Liability: StrategyGuide/LimitedLiability.md
         - H█roes and Villains: StrategyGuide/H█roesVillains.md
+        - Controlled Shutdown: StrategyGuide/ControlledShutdown.md
     - Trends:
        - Trends/index.md
        - Shift Back to the Right: Trends/ShiftRight.md
-       - Controlled Shutdown: Trends/ControlledShutdown.md
     - Examples:
       - Examples/index.md
 

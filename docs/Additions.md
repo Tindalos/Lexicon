@@ -3,7 +3,7 @@
 
 Added since publication:
 
-**[[ControlledShutdown|Controlled Shutdown]]** trend
+Strategy: **[[ControlledShutdown|Controlled Shutdown]]**
 
 **[[Trends/index|Trends]]** section
 
