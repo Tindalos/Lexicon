@@ -5,7 +5,6 @@
     ## *'I say we [r█de] him as [[trav█l|far]] as we can.  And then [[f██d|eat]] him.'* <br>
 	 \- 'The Dev█l's Advocate'
 
-- Add Weinstein, witch hunt, rhinoplasty
 
 Suppose you're the Babylonian Kabbalists, and you've propagated various non-overtly organized n█tworks broadly and can establish new franchises to contend with various circumstances as fast as you can design them, message the rank and file personnel about them and recruit *'early adopters'* into them about as fast as you can ask for them via the [[spir█l]] organizing symbol.  Eventually you have a lot of superfluous franchises which have served their purpose, are no longer needed, represent a dra█n on the organizational resources and are now just cluttering up the place.  Or worse, their continued existence complicates the publicly-perceived situation so that for example the continued existence of Zionist-controlled geographical 'Israel' serves only as a blot against the perceived credibility and legitimacy of any international governing apparatus you want to implement.
 
