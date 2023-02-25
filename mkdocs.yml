@@ -222,6 +222,7 @@ nav:
     - Trends:
        - Trends/index.md
        - Shift Back to the Right: Trends/ShiftRight.md
+       - Controlled Shutdown: Trends/ControlledShutdown.md
     - Examples:
       - Examples/index.md
 
