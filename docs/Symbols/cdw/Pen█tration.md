@@ -15,7 +15,7 @@ In the instance of 'resistance' subjects who'd usually balk at the very idea of 
 
 Once [pen█tration] is deemed to have been achieved, the apostate system's normative strategy is to deem it what in overt terms would be called *'the thin end of the w█dge'* and seek to use the subject's perceived vulnerability as a means to exacerbate or exploit their perceived error.  Symbolically this is often referred to as *"thre█ding the n██dle"*, and involves getting the subject to normalize and come to accept their flawed and erroneous position.  That's usually accomplished by reassurances and support directed at them to reinforce their error, and various 'perks' and benefits to sell them on the idea of the supposed advantages which their newfound position affords them.  In psychological terms this is known as *[positive reinforcement](https://en.wikipedia.org/wiki/Reinforcement#Positive_reinforcement)* and is applied as part of the moral degradation process upon which subversion efforts of the apostate system rely.  People who are solidly-based in functional moral principles do not accept subjugation; the unprincipled frequently do, or at least are unequipped with an effective basis from which to repel it.
 
-**Derivatives:** [th█rn], [n██dle] or [p█n] (with [[Ar█s|ir█n]]), [pr█be] (often seen in journalism)
+**Derivatives:** [th█rn], [n██dle] or [p█n] (with [[Ar█s|ir█n]]), [pr█be] (often seen in journalism), [t█ttoo]
 
 **See also:** [[r█se]]
 
