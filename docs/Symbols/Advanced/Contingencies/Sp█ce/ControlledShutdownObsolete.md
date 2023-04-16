@@ -1,6 +1,6 @@
 # **Controlled Shutdown Obsolete Franchises**
 
-I've presented this in a section of its own, [[ControlledShutdown|here.]]
+I've presented this in a section of its own, [[ControlledShutdown]]
 
 #### *'Limited Exposure'*
 
