@@ -251,7 +251,7 @@ nav:
 markdown_extensions:
 #  - abbr
   - admonition
-  - footnotes
+#  - footnotes
   - attr_list
   - meta
   - pymdownx.arithmatex:
