@@ -39,7 +39,7 @@ theme:
     logo: img/No_image.svg
 
     features:
-      - navigation.instant
+#      - navigation.instant
 #      ^ Loads the whole site at once, preventing constant reloads
       - navigation.indexes
 #     ^ Displays index pages for section directories  
