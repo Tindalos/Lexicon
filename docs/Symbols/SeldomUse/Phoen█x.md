@@ -1,6 +1,6 @@
 # **[Phoen█x]**
 
-**Definition:** *A special 'p█ring down' procedure by which the Babylonian Kabbalists 'expose' and do a '[[ControlledShutdown|controlled shutdown]]' of a franchise, group of franchises, or subset of personnel, 'throwing them to the w█lves' to receive the blame for the whole operation, and then selected personnel who are 'in the know' are allowed to persist until the organization needs to do it again.*
+**Definition:** *A special 'p█ring down' procedure by which the Babylonian Kabbalists 'expose' and do a 'controlled shutdown' of a franchise, group of franchises, or subset of personnel, 'throwing them to the w█lves' to receive the blame for the whole operation, and then selected personnel who are 'in the know' are allowed to persist until the organization needs to do it again.*
 
 This procedure is 'great' for when the mass recruitment process has ended, the organization is bottom-heavy with loads more personnel than are needed, many aren't especially competent or diligent, the loot and other benefits of membership have to be spl█t *'too many w█ys'*, the incompetence represents too much immediate r█sk and liability for the organization, and the organization now wants to shift from mass recruitment to enforcing strict adherence and loyalty by personnel to its various agendas (because anyone not sufficiently obedient could easily find themselves on the receiving end of exposure and public t█kedown.)
 
@@ -10,9 +10,9 @@ The selected, 'retained' assets are symbolically depicted by, and associated wit
 
 [Here](https://web.archive.org/web/20150811220950/http://redefininggod.com/2015/08/globalist-agenda-watch-2015-update-65-the-globalists-will-be-breaking-up-the-great-nations-the-us-russia-china-india-etc-when-will-it-begin/) is an example of the symbolism in use in modern media.
 
-When franchises are scheduled for '[[ControlledShutdown|controlled shutdown]]', they are usually 'exposed' (or at least publicly-vilified) as being the supposed 'masterminds' for either the entire organization, or for the current overt situation the People are being actively incited to resent.
+When franchises are scheduled for 'controlled shutdown', they are usually 'exposed' (or at least publicly-vilified) as being the supposed 'masterminds' for either the entire organization, or for the current overt situation the People are being actively incited to resent.
 
-As of this wr█ting, the franchises known to be currently designated for '[[ControlledShutdown|controlled shutdown]]' are:
+As of this wr█ting, the franchises known to be currently designated for 'controlled shutdown' are:
 
 **'The Jews'** (i.e., the faux-Jewish Zionism franchise).  The purpose of the franchise had been to successfully usurp legit Judaism, and it has for all intents and purposes done so after several tho█sand years.  The remaining slim minority of legit, knowledgeable Jews is only a few tho█sand people internationally, which can be sorted out with [specific m█pping-up jobs.](https://web.archive.org/web/20160531223553/http://redefininggod.com/2016/03/operation-god-king-the-globalistlubavitch-plot-to-slaughter-the-jews-and-install-a-kabbalized-christ-as-global-king/)  The continued existence of geographical 'Israel' \[sic\] only serves to discredit the publicly-perceived legitimacy 'Un█ted Nations' for allowing its behavior, or for whatever incarnation or replacement is substituted for the 'Un█ted Nations'.  As such the continued existence of the apostate system's Zionist franchise is counter-productive to them.
 

@@ -1,7 +1,3 @@
----
-aliases: [tw█n, alliteration]
----
-
 # **[Gem█ni]**
 
 

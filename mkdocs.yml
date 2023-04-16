@@ -207,6 +207,7 @@ nav:
             - R█se: Symbols/SeldomUse/R█se.md
             - Phoen█x: Symbols/SeldomUse/Phoen█x.md
             - Dec█pitation: Symbols/SeldomUse/Dec█pitation.md
+<<<<<<< HEAD
         - Advanced:
             - Symbols/Advanced/index.md
             - Contingencies:
@@ -225,6 +226,8 @@ nav:
                 - Symbols/Advanced/Contingencies/Media/index.md
                 
               
+=======
+>>>>>>> parent of 8d245471 (Added 'Contingencies' section)
     - Tropes:
         - Tropes/index.md
         - 'No Anti-': Tropes/NoAnti.md
@@ -232,9 +235,6 @@ nav:
         - F█ther, M█ther, Child: Tropes/F█therM█therChild.md
         - 'Multiple In-Process Symbols': Tropes/MultipleInProcess.md
         - Arbitrary Vowels: Tropes/ArbitraryVowels.md
-    - Franchises:
-        - Franchises/index.md
-        - 'Cops n R█bbers': Franchises/CopsR█bbers.md
     - Strategy Guide:
         - StrategyGuide/index.md
         - Sc█lla and Charybd█s: StrategyGuide/Sc█llaCharybd█s.md
@@ -255,7 +255,6 @@ markdown_extensions:
   - footnotes
   - attr_list
   - meta
-  - tables
   - pymdownx.arithmatex:
       generic: true
   - pymdownx.superfences

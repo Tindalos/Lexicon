@@ -1,6 +1,3 @@
----
-aliases: [li█, tr█ck]
----
 # **[Dece█t]**
 
 **Definition:** *Used as an ostensible 'inversion' symbol, which as usual purportedly either 'uses up' an 'inversion' in 'inverted mode' or purports to add an additional 'inversion' to the message*

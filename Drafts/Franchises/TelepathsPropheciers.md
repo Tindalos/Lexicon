@@ -1,1 +1,0 @@
-# Telepaths and Propheciers

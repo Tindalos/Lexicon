@@ -1,6 +1,3 @@
----
-Aliases: [controlled shutdown, Controlled Shutdown]
----
 # Controlled Shutdown
 
 

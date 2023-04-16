@@ -1,7 +1,3 @@
----
-Aliases: [pal█ndrome, countd█wn]
----
-
 # Backw█rds
 
 
