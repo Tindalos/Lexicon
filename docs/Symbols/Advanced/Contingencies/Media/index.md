@@ -36,4 +36,4 @@ Original *[Adult Sw█m](https://www.youtube.com/watch?v=l-xnfh-u-oI)* aesthetic
 
 *'Greatest American H█ro'*
 
-*'Quantum Le█p'*, *'Time Tr█x'* and *'7 D█ys'* commonalities, 'Ac█' R█mmer and the hologram various assistants
+*'Quantum Le█p'*, *'Time Tr█x'* and *'7 D█ys'* commonalities, 'Ac█' R█mmer and the hol█gram various assistants
