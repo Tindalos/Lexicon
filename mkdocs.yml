@@ -45,6 +45,8 @@ theme:
 #     ^ Displays index pages for section directories  
       - navigation.top
 #      ^ Creates a 'Back-to-top' button
+      - navigation.footer
+#        ^ Creates footer with 'Previous' and 'Next' entries
 #      - navigation.sections
 
 nav:
