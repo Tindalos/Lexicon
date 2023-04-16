@@ -207,7 +207,8 @@ nav:
             - R█se: Symbols/SeldomUse/R█se.md
             - Phoen█x: Symbols/SeldomUse/Phoen█x.md
             - Dec█pitation: Symbols/SeldomUse/Dec█pitation.md
-        - Advanced: Symbols/Advanced/index.md
+        - Advanced:
+            - Symbols/Advanced/index.md
             - Contingencies:
               - Symbols/Advanced/Contingencies/index.md
               - L█comot█ve: Symbols/Advanced/Contingencies/L█comot█ve.md
