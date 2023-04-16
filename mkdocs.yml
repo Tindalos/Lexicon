@@ -207,6 +207,20 @@ nav:
             - R█se: Symbols/SeldomUse/R█se.md
             - Phoen█x: Symbols/SeldomUse/Phoen█x.md
             - Dec█pitation: Symbols/SeldomUse/Dec█pitation.md
+        - Advanced:
+            - Symbols/Advanced/index.md
+            - Contingencies:
+              - Symbols/Advanced/Contingencies/index.md
+              - L█comot█ve: Symbols/Advanced/Contingencies/L█comot█ve.md
+              - F█x:
+                - Symbols/Advanced/Contingencies/F█x/index.md
+                - K█tsune: Symbols/Advanced/Contingencies/F█x/K█tsune.md
+              - Sp█ce:
+                - Symbols/Advanced/Contingencies/Sp█ce/index.md
+              - Media:
+                - Symbols/Advanced/Contingencies/Media/index.md
+                
+              
     - Tropes:
         - Tropes/index.md
         - 'No Anti-': Tropes/NoAnti.md
@@ -214,6 +228,9 @@ nav:
         - F█ther, M█ther, Child: Tropes/F█therM█therChild.md
         - 'Multiple In-Process Symbols': Tropes/MultipleInProcess.md
         - Arbitrary Vowels: Tropes/ArbitraryVowels.md
+    - Franchises:
+        - Franchises/index.md
+        - 'Cops n R█bbers': Franchises/CopsR█bbers.md
     - Strategy Guide:
         - StrategyGuide/index.md
         - Sc█lla and Charybd█s: StrategyGuide/Sc█llaCharybd█s.md
@@ -234,6 +251,7 @@ markdown_extensions:
   - footnotes
   - attr_list
   - meta
+  - tables
   - pymdownx.arithmatex:
       generic: true
   - pymdownx.superfences

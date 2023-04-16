@@ -12,4 +12,4 @@ As such, I carefully reword to avoid these symbolic 'terms of concern' when reas
 
 Given the ability and strategy of 'the gl█balists' to infiltrate, subvert, co-op and usurp practically any outside group or effort they encounter (which allows them to by leaving open the vulnerability for it by not precluding the use of their organizing symbolism), and particularly of counter-efforts trying to stop what they're doing to everyone, I'm not aware of any p█pulist counter-effort which can be feasible without making and keeping a firm and clear distinction between the position of its personnel and their own.
 
-Obviously the public can't do that if they're not familiar with what that organizing symbolism is.  So educating the public in order to make and keep that distinction is naturally the first prerequisite, and is the reason I provide this lexicon.
+Obviously the public can't do that if they're not familiar with what that organizing symbolism is.  So educating the public in order to make and keep that distinction is naturally the first prerequisite, and is the major reason I provide this lexicon.

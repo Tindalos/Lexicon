@@ -1,6 +1,6 @@
 # **[Dag█n]**
 
-**Definition:** *A system of methods and efforts, and a subd█vision predicated on same, to use non-overtly organized methods to counterfeit, infiltrate, subvert, co-opt and eventually completely usurp an outside group, religion, effort, ideology or interest.
+**Definition:** *A system of methods and efforts, and a subd█vision predicated on same, to use non-overtly organized methods to counterfeit, infiltrate, subvert, co-opt and eventually completely usurp an outside group, religion, effort, ideology or interest.*
 
 [[Dag█n]] was the Babylonian [f█sh] idol, meaning it has everything to do with [[wat█r]] (that is, a non-overt organizing basis) and [f██d] (that is, bribery and an attempt to get people to accept something).  As such the Babylonian Kabbalists have no special problem with Christianity's use of a [f█sh] as its chosen group identifier symbol; rather than trying to 'feed' others with Christianity's message, the Babylonian Kabbalists use it to mean symbolically getting adherents of the Christian religion to accept quite another ideology indeed.
 
