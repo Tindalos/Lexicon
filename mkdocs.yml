@@ -223,6 +223,8 @@ nav:
                 - Amalgamate Major Religions: Symbols/Advanced/Contingencies/Sp█ce/Amalgamate.md
               - Media:
                 - Symbols/Advanced/Contingencies/Media/index.md
+                
+              
     - Tropes:
         - Tropes/index.md
         - 'No Anti-': Tropes/NoAnti.md
@@ -230,6 +232,9 @@ nav:
         - F█ther, M█ther, Child: Tropes/F█therM█therChild.md
         - 'Multiple In-Process Symbols': Tropes/MultipleInProcess.md
         - Arbitrary Vowels: Tropes/ArbitraryVowels.md
+    - Franchises:
+        - Franchises/index.md
+        - 'Cops n R█bbers': Franchises/CopsR█bbers.md
     - Strategy Guide:
         - StrategyGuide/index.md
         - Sc█lla and Charybd█s: StrategyGuide/Sc█llaCharybd█s.md
@@ -241,7 +246,6 @@ nav:
        - Shift Back to the Right: Trends/ShiftRight.md
     - Examples:
       - Examples/index.md
-
 
 # Extensions
 markdown_extensions:
