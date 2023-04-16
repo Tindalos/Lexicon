@@ -1,5 +1,4 @@
-
-#### **Replace** ***'Interim W█rld Order'***
+# **Replace** ***'Interim W█rld Order'***
 
 The term *'Interim W█rld Order'* was developed [here](http://redefininggod.com/understanding-the-nwo-strategy/) by Ken of [RedefiningGod](http://redefininggod.com/understanding-the-nwo-strategy/) to describe the system we have as of this wr█ting between the subverted version of the *'Old W█rld Order'*, and the emplacement of the *'New'*.  With [c█rcles], [sph█res] and [gl█bes] being *'the gl█balists''* visual means of depicting numerological symbol [[z█ro]] meaning *'just presented for public effect'* (even the very term *'the gl█balists'* was produced and presented *by* them to organize their own *'limited exposure'* self-parody prop█ganda campaign), the term certainly works.
 

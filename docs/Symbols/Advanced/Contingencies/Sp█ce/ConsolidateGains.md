@@ -1,4 +1,4 @@
-#### **Consolidate Gains**
+# **Consolidate Gains**
 
 The idea people usually have that *'the gl█balists are trying to take over the w█rld'* is both optimistic and a bit antiquated; they've had control over the major systems for ages now.  Consider the overt Un█ted States government for example; that was established and occupied by their shills from the very start.  They were just limited in how much they could do and how blatantly they could do it because the People collectively more or less still knew what they were about, that's all.  We had our Common Law, our fundamental principles, our knowledge and application of how to maintain and retain Constitutional, limited government by consent, and to a varying extent our solid moral values.  That had to be done away with carefully, slowly, gradually, incrementally and very strategically first and the figurative downward trajectory of the place has been the process by which they did that, primarily oriented on stopping the prevalent knowledge of and familiarity with basic Christian values and the Common Law principles of freedom which they afforded.
 

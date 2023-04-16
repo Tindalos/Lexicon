@@ -1,4 +1,4 @@
-#### **Controlled Shutdown Obsolete Franchises**
+# **Controlled Shutdown Obsolete Franchises**
 
 I've presented this in a section of its own, [[ControlledShutdown|here.]]
 
