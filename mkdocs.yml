@@ -278,7 +278,7 @@ markdown_extensions:
 plugins:
 #  - search
   - roamlinks 
-  - mermaid2
+#  - mermaid2
 # Uncomment below to enable RSS
 #  - rss:
 #       abstract_chars_count: 1
