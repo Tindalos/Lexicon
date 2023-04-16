@@ -257,7 +257,7 @@ markdown_extensions:
 #  - pymdownx.arithmatex:
 #      generic: true
   - pymdownx.superfences
-  - pymdownx.details
+#  - pymdownx.details
 #  - pymdownx.magiclink
   - pymdownx.tasklist:
       custom_checkbox: true
