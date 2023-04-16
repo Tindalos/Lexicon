@@ -6,6 +6,8 @@
 
 Added since publication:
 
+Additional content to **[[Sc█llaCharybd█s]]** entry
+
 **[[Franchises/index|Franchises]]** section, with **[[CopsR█bbers|Cops and R█bbers]]** entry
 
 Symbols, Advanced: **[[Symbols/Advanced/Contingencies/index|Contingencies]]** section, pending **Media** evidence additions
