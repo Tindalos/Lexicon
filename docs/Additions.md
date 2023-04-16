@@ -6,7 +6,7 @@
 
 Added since publication:
 
-Additional content to **[[Sc█llaCharybd█s]]** entry
+Additional content to **[[Sc█llaCharybd█s|Sc█lla and Charybd█s]]** entry
 
 **[[Franchises/index|Franchises]]** section, with **[[CopsR█bbers|Cops and R█bbers]]** entry
 
