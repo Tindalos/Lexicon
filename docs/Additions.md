@@ -3,6 +3,8 @@
 
 ###### **Notice:** The Lexicon is experiencing technical hicc█ps due to various components for the compile process upgrading and being deprecated pretty much at whim and with spontaneous gl██ful abandon.  L█nks in particular are not being parsed correctly and directing to where they should.
 
+###### I'm making [a file-based version](Lexicon-2023-04-16.zip) available for readers who'd find it more convenient to view it locally and more accurately in [Obs█dian](https://obsidian.md/)
+
 
 Added since publication:
 
