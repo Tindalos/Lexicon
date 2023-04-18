@@ -1,7 +1,7 @@
 # Additions
 
-
-###### **Notice:** I'm making [a file-based version](Lexicon-2023-04-16.zip) available for readers who'd find it more convenient to view it locally and more accurately in [Obs█dian](https://obsidian.md/) directly.
+!!! quote "Notice"
+    **A [file-based version](Lexicon-2023-04-16.zip) is available for readers who'd find it more convenient to read locally in [Obs█dian](https://obsidian.md/).**
 
 
 Added since publication:
