@@ -55,7 +55,7 @@ gu█llotines
 
 [[Fec█s|S]]HT[[Rot█tion|F]]
 
-[[One]]foo[[Tw█]]
+[[One|1]]foo[[Tw█|2]]
 
 "[[Spir█l|Dra█ning]] the [[M█d|sw█mp]]"
 
