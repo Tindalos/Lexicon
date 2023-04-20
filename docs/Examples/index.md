@@ -55,7 +55,7 @@ gu█llotines
 
 [[Fec█s|S]]HT[[Rot█tion|F]]
 
-[[One|1]]foo[[Tw█|2]]
+[[docs/Symbols/Advanced/Contingencies/F█x/index|foo]]and[[Redaction|bar]]
 
 "[[Spir█l|Dra█ning]] the [[M█d|sw█mp]]"
 
