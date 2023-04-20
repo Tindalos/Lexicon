@@ -37,7 +37,7 @@ down the rabbit h█le ([fertility] + [[z█ro]] + [[InContainer|in container]] 
 
 "Q" ([[Z█ro|c█rcle]] + [[Diag█nalL█ne|f█rty-f█ve degree angle]], with a release from [[InContainer|container]] ostensibly 'inverted')
 
-"Bre█dcr█mbs" ([[f█re]] + [[f██d]] + [[D█st|part█culate]], and a reference to organizing symbolism from the Grimm's fa█ryt█le.]])
+"Bre█dcr█mbs" ([[f█re]] + [[f██d]] + [[D█st|part█culate]], and a reference to organizing symbolism from the Grimm's fa█ryt█le.)
 
 "Predictive programming" ([[Gem█ni]] via [alitteration]; a counterfeit ideology they've been propagating)
 
