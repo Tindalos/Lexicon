@@ -15,7 +15,7 @@ jobs:
         with:
           python-version: 3.11
       - run: pip install mkdocs-material
-      - run: pip install mkdocs-roamlinks-plugin -U
+      - run: pip install mkdocs-roamlinks-plugin==0.2.0
 #      - run: pip install mkdocs-mermaid2-plugin
       - run: mkdocs gh-deploy --force
 
