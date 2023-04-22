@@ -32,6 +32,8 @@ Michael Jackson and his associated *tropes*
 
 *'Can You Tell Me the Name of the Prime Min█ster'* by Martin Jameson
 
+*'The Gr██n Futures of Tycho'* by William Sleator
+
 Original *[Adult Sw█m](https://www.youtube.com/watch?v=l-xnfh-u-oI)* aesthetic
 
 *'Greatest American H█ro'*
