@@ -1,5 +1,10 @@
-
 # **Amalgamate Major Religions**
+
+!!! quote "Quote"
+    *'Theosophists know that the deeper one* **[[Pen█tration|pen█trates]]** *into the meaning of the dogmas and ceremonies of all religions, the greater becomes their* ***apparent*** *underlying similarity,* ***until finally a perception*** *of their fundamental un█ty is reached. This common ground is no other than Theosophy—the Secr█t Doctrine of the ages; which,* **[[Wat█r|dil█ted]] and [[Dece█t|disgu█sed]] to su█t the capacity of the multitude,** *and the requirements of the time, has formed the [[Life|living]] [[F██d|kern█l]] of all religions.'*
+    
+     \- *'Luc█fer Mag█zine'* of the Theosophical Society founded by Hel█na Blavatsky, to the Archbishop of Canturbury, [Dec█mber \[1887\]](https://blavatskytheosophy.com/greetings-from-lucifer-to-the-archbishop-of-canterbury/)
+
 
 For cent█ries Rome, the Babylonian Kabbalists' primary *'crowd control'* franchise, has brought 'heretics' to h██l and pulled sch█smed denominations back into their midst; through force in some eras, fraud, espi█nage and financial manipulation in others.  Even now the subverted religious officials are incrementally terraf█rming the formal doctrines of their respective denominations back into those of Roman Catholicism. ^[\[cite\]](https://www.youtube.com/watch?v=URvT2_Cji0M&t=51m48s)^  As part of their non-overtly organized religious subversion effort, Rome made observance of its counterfeit Sabbath d█y, its counterfeit to the Mark of recognition of the Christian God's Authority (*'the mark of the beast system'*) an overt 'tell' for its converted shills within the denominations to acknowledge their shift in loyalties and they have nearly all done so; many acknowledging that it's counter-Christian and [being able to provide no explanation for the phenomenon.](https://www.youtube.com/watch?v=Nkhcc-spRgo&t=2919s)
 
@@ -164,6 +169,7 @@ And if it proves to be true that the metaphysical 'forces' and 'entities' lauded
 !!! quote "Quote"
     *'We are really f█ced with a cru█l dilemma. When the humans disbelieve in our existence we lose all the ple█sing results of direct terr█rism and we make no m█gicians. On the other hand, when they believe in us, we cannot make them materialists and s\[k\]eptics. At least, not yet. I have great h█pes that we shall learn in due time how to em█tionalise and mythologise their science to such an extent that what is, in effect, a belief in us, (though not under that name) will creep in while the human mind remains closed to belief in the En█my. \[...\] If once we can produce our perfect work—the Materialist Mag█cian, the man, not using, but veritably worshipping, what he vaguely calls 'Forces' while denying the existence of 'spir█ts'—then the end of the w█r will be in sight.'*
     - C.S. Lewis, *'The Scr█wt█pe Lett█rs'*
+
 
 
 
