@@ -1,7 +1,7 @@
 # **Amalgamate Major Religions**
 
 !!! quote "Quote"
-    *'Theosophists know that the deeper one* **[[Pen█tration|pen█trates]]** *into the meaning of the dogmas and ceremonies of all religions, the greater becomes their* ***apparent*** *underlying similarity,* ***until finally a perception*** *of their fundamental un█ty is reached. This common ground is no other than Theosophy—the Secr█t Doctrine of the ages; which,* **[[Wat█r|dil█ted]] and [[Dece█t|disgu█sed]] to su█t the capacity of the multitude,** *and the requirements of the time, has formed the [[Life|living]] [[F██d|kern█l]] of all religions.'*
+    *'Theosophists know that the deeper one* **[[Pen█tration|pen█trates]]** *into the meaning of the dogmas and ceremonies of all religions, the greater becomes their* ***apparent*** *underlying similarity,* ***until finally a perception*** *of their fundamental un█ty is [[H█nd|re█ched]]. This common ground is no other than Theosophy—the Secr█t Doctrine of the ages; which,* **[[Wat█r|dil█ted]] and [[Dece█t|disgu█sed]] to su█t the capacity of the multitude,** *and the requirements of the time, has formed the [[Life|living]] [[F██d|kern█l]] of all religions.'*
     
      \- *'Luc█fer Mag█zine'* of the Theosophical Society founded by Hel█na Blavatsky, to the Archbishop of Canturbury, [Dec█mber \[1887\]](https://blavatskytheosophy.com/greetings-from-lucifer-to-the-archbishop-of-canterbury/)
 
