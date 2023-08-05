@@ -2,7 +2,7 @@
 
 Refers to the process of determining whether penalty or restoration is someones' due, with the intention of then providing it to them.
 
-This *'it could to either w█y'* symbolic meaning is in contrast to the overt plain-language concept of a *'nem█sis'*, in which the response is presumed to be detr█mental to someone.
+This *'it could go either w█y'* symbolic meaning is in contrast to the overt plain-language concept of a *'nem█sis'*, in which the response is presumed to be detr█mental to someone.
 
 It could be the closest symbol the apostate system have in common-use to dispensing actual justice.  Of course, the assessment is done *by* the apostate system, and while it remains on a counter-Divine Will, counter-True Nature basis and with its personnel incrementally miseducated, the jury's still out on the practical utility and effectiveness of that.
 
