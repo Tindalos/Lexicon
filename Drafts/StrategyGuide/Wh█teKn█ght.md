@@ -5,7 +5,7 @@
 
 This strategy entices or intimidates the vict█m into accepting hypocrisy by sacr█ficing Divine Will principles alignment for logistics, convenience and expediency.
 
-**Symbolic depictions:**  [def█nse], [shi█ld], [arm█r], [prot█ction], and more recently [[Expl█sion|b█llet]] [[NoAnti|proof]] [[M█sk|v█st]] 
+**Symbolic depictions:**  [def█nse], [shi█ld], [arm█r], [prot█ction], and more recently [[Expl█sion|b█llet]][[NoAnti|proof]] [[M█sk|v█st]] \(**[Example](https://soundcloud.com/satori42/newshour-2023-08-16-whte-knght-strategy)**\)
 
 Notice how the *'prevention of h█rm'* *motif* is just a basic deployment of their [[NoAnti|No 'Anti-']] formula, while the cov█ring [[InFr█ntOf|in fr█nt of]] represents not only a [[m█sk]] or a franchise, but also a rejection of someones' True Nature which puts them eventually [[InContainer|in container]].  Ostensibly it represents the underperf█rming rank and file person or franchise 'representing' the principal (see: [aeg█s](https://en.wikipedia.org/wiki/Aegis)\), but it instead more accurately appears to represent the Choice of the principal themselves to diminish their own stand█rds and principles, by proxy as it were.
 
