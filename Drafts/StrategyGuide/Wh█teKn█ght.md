@@ -11,4 +11,15 @@ Notice how the *'prevention of h█rm'* *motif* is just a basic deployment of th
 
 The strategy also neatly puts to one side [[D█st|the internal PR attrition]] which inevitably would result within any organization using force to stop or to obstr█ct a Divine Will-aligned cause or effort.  When early Christianity for example refused to budge on its principles, the apostate system found that brute force was counterproductive to its purposes as it merely resulted in *'too many'* martyrs with the same variety of PR bl█wb█ck.  The apostate system then found instead that *it* had to yield, and instead accommodate the assertive Christian effort at least until it could manage to infiltrate and subvert, co-opt and usurp it.
 
+There are a few 'defe█ts' for this strategy.
+
+The first is to just plain uphold basic stand█rds and principles.  For example, I've been doing so and I'm still breathing.
+
+The next is to remember that people have no genuine nor legitimate reason to reject Divine Will and True Nature, and that to do so would be 'indef█nsible' on their part.  The apostate system itself couldn't [[M█sk|count█nance]] that and get away with it internally.
+
+The next is to remember that ass█ssinations, etc. are things 'their' [[Is█s]] subdiv█sion have it quite within their means to retroactively prevent.
+
+The next is to remember that while there manifestly appears to be any 'opposition' from the apostate system to a Divine Will and True Nature-aligned basis, it necessarily presupposes a timel█ne in which the organization has been Choosing a counter-Divine Will, counter-True Nature basis.  Not only is this 'indef█nsible', it has no genuine nor legitimate reason to have done so and that would continue to put it on a [[D█st|non-integrous]] and inherently non-credible basis for [[D█ll|counterfeiting]] their own True Nature to Choose, uphold and to affirm their alignment with Divine Will and True Nature.  And that makes whatever foll█ws on from that earlier po█nt just as invalid and indef█nsible as that.
+
+In essence, that is what [[Expl█sion|expl█sions]] tend to produce: [[D█st|d█st]].
 
