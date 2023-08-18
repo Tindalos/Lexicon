@@ -6,6 +6,8 @@
 
 Added since publication:
 
+Strategy: **[[M█rijuana]]**
+
 Strategy: **[[Wh█teKn█ght|Wh█te Kn█ght]]**
 
 Additional content to **[[Sc█llaCharybd█s|Sc█lla and Charybd█s]]** entry
