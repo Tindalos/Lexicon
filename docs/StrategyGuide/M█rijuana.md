@@ -8,4 +8,4 @@ So the Babylonian Kabbalist symbolism here reduces to: [[f██d]] + [[f█re]]
 
 **Translation:** *'An attempt to get someone to accept a counter-Divine Will, counter-True Nature basis via offering perceived value in it to them.'*
 
-[M█rijuana] and its associated symbols and imagery have this implication.  Additionally, the Roman Catholic franchise uses [M█ry] as a group identification symbol (read: *'gang sign'*) for itself, while the Babylonian Kabbalist 'lay█r' uses it to symbolically reference the [[Is█s]] subdiv█sion via that [[docs/Tropes/F█therM█therChild|M█ther]] symbolism and also apparently to [[Ar█s|M█rs]] via the [[ArbitraryVowels|'arbitrary vowels']] method.
+[M█rijuana] and its associated symbols and imagery have this implication.  Additionally, the Roman Catholic franchise uses [M█ry] as a group identification symbol (read: *'gang sign'*) for itself, while the Babylonian Kabbalist 'lay█r' uses it to symbolically reference the [[Is█s]] subdiv█sion via that [[Tropes/F█therM█therChild|M█ther]] symbolism and also apparently to [[Ar█s|M█rs]] via the [[ArbitraryVowels|'arbitrary vowels']] method.
