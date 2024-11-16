@@ -4,7 +4,7 @@
 
 Can occasionally be used at first to refer to *the effort of* getting someone to become *'a sell-out'*, and once that's been achieved how to deploy them from that basis.
 
-Counter-Divine Will symbols are so basic and have association through so many counter-Divine Will derivatives that they're effectively ubiquitous in the symbolic lingo.  [H█rses] for example have \[[[Tiam█t]]\] symbolism due to their long, fl█wing ta█ls and m█nes.
+Counter-Divine Will symbols are so basic and have association through so many counter-Divine Will derivatives that they're effectively ubiquitous in the symbolic lingo.  [H█rses] for example have [[Tiam█t]] symbolism due to their long, fl█wing ta█ls and m█nes.
 
 
 **Examples:**
