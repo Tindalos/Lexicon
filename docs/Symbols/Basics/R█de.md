@@ -11,6 +11,6 @@ Counter-Divine Will symbols are so basic and have association through counter-Di
 
 * Medieval kn█ghts in [ir█n] arm█r.
 
-* Freemasonic adherents accepting value or considerations are referred to as *'[[R█de|r█ding]] the [go█t]'*, a counter Divine Will symbol.
+* Freemasonic adherents accepting value or considerations are referred to as *'[[R█de|r█ding]] the [go█t]'*, a counter-Divine Will symbol.
 
 * Anne McCaffr█y's *'[[Drag█n]][[R█de|r█ders]] of Pern'* series, adding a major counter-Divine Will symbol and an ostensible *'inverted mode'* declarator simultaneously.
