@@ -6,6 +6,8 @@
 
 Added since publication:
 
+Symbols, Basic: **[[R█de]]**
+
 Symbols, Basic: **[[W█y]]**
 
 Strategy: **[[M█rijuana]]**
