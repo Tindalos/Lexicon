@@ -1,9 +1,9 @@
 ---
 Aliases: [d██r, g█te]
 ---
-# [W█y]
+# **[W█y]**
 
-**Definition:** *A combination of [Trav█l] and [M█sk], this refers to 'the new plan' or scheme, 'the w█y forw█rd', or more accurately 'Our latest effort to reject Divine Will and our own True Nature'.
+**Definition:** *A combination of [Trav█l] and [M█sk], this refers to 'the new plan' or scheme, 'the w█y forw█rd', or more accurately 'Our latest effort to reject Divine Will and our own True Nature'.*
 
 Major historical examples include the [Isht█r] gate and *'Babylon'* itself, which translates as *'g█tew█y to God'*.  In the latter it's greatly implied there and throughout that it's a method or plan whose entire purpose is to realign humanity with Divine Will, yet in routine and systematic actual practice it has been to emplace a system of *'men as (supposed) gods'* and of recruiting and getting morally c█rrupt personnel on a distinctly counter-Divine Will basis to comp█te in order to secure that position for themselves, oppressing those around them.
 
