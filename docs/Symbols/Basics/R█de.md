@@ -9,7 +9,7 @@ Counter-Divine Will symbols are so basic and have association through so many co
 
 **Examples:**
 
-* Medieval kn█ghts in [ir█n] arm█r.
+* Medieval kn█ghts in [[Met█l|ir█n]] arm█r.
 
 * Freemasonic adherents accepting value or considerations are referred to as *'[[R█de|r█ding]] the [go█t]'*, a counter-Divine Will symbol.
 
